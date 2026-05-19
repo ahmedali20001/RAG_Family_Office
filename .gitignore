@@ -1,0 +1,23 @@
+# Ignore everything by default
+*
+
+# Allow directories to be searched
+!*/
+
+# Explicitly whitelist ONLY the important files
+!app.py
+!extract_family_offices.py
+!family_offices_v2.xlsx
+!raw_json/**
+!crd.csv
+!RAG_DOCUMENTATION.md
+!README.md
+!requirements.txt
+!Differentiator.docx
+!Task_2 - SaaS_Conversion_Strategy.md
+
+# Re-ignore unwanted files inside allowed directories
+__pycache__/
+*.pyc
+~$*.xlsx
+.streamlit/
