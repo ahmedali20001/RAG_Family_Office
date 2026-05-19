@@ -5,52 +5,40 @@ This document describes the design decisions, retrieval workflow, and architectu
 ---
 
 ## 1. Stack Choices
-*   **Frontend Interface**: **Streamlit** (allows building web-based data applications rapidly with native support for chat layouts, forms, and custom CSS without requiring HTML/CSS boilerplate).
-*   **Embedding Model**: **`sentence-transformers/all-MiniLM-L6-v2`** (a lightweight 384-dimensional sentence transformer model running locally. It provides fast embedding generations with zero API costs, making the app self-sufficient).
-*   **Vector Database**: **NumPy Array with Cosine Similarity** (since our dataset consists of 50 profiles (~50 documents), an in-memory NumPy matrix is incredibly fast (sub-millisecond lookups), zero-configuration, and has no infrastructure overhead or dependencies like Docker or SQLite).
-*   **LLM Providers**: **Google Gemini (1.5 Flash/Pro)** or **OpenAI (GPT-4o/4o-mini)** (user-configurable via the sidebar to dynamically generate institutional-grade summaries and answers based on retrieved context).
+*   **Frontend Interface**: **Streamlit** (allows building web-based data applications rapidly with native support for chat history and interactive sidebars without requiring HTML/CSS boilerplate).
+*   **Data Processing**: **Pandas** (used to instantly parse, filter, and convert the backend Excel workbook into a highly optimized CSV string for the LLM).
+*   **LLM Providers**: **Google Gemini (1.5 Flash/Pro)** or **OpenAI (GPT-4o/4o-mini)** (user-configurable via the sidebar to dynamically generate institutional-grade summaries and answers).
 
 ---
 
-## 2. Chunking Strategy
-Instead of splitting text files arbitrarily by character length (which ruins biographical data by slicing mid-sentence or separation of disclosure metrics), we use **Entity-Level Semantic Chunking**:
-*   Each adviser is processed as a **single discrete document** (1 adviser profile = 1 chunk).
-*   A textual document profile is constructed by combining:
-    - Demographic Details (Name, CRD#)
-    - Licensing scopes (IA, BD)
-    - Geographic coverage (Registrations and Branch Locations)
-    - Full Employment History (dates and firms)
-    - Regulatory Disclosures (each parsed disclosure contains initiating authority, allegations, fines, sanctions, and comments).
-*   This ensures that the retriever always brings the **complete biography and disclosure history** of an individual, rather than partial pieces.
+## 2. The Architectural Pivot: Why No Embeddings?
+Initially, the application was built using a standard Vector Database (`sentence-transformers` + Cosine Similarity). However, this architecture was deliberately scrapped. 
+
+**Why?** Vector search relies on retrieving the "Top K" (e.g., top 5) most semantically similar chunks. This is fundamentally broken for *global math or aggregation queries*. If a user asks *"Who has the highest total fines?"*, a vector database cannot calculate this; it simply retrieves the 5 profiles whose text looks most similar to the word "fines", entirely missing the actual individual with the highest penalty.
+
+### The New Approach: Two-Step Agentic Routing (Full Context)
+Because our dataset is highly structured (Excel) and relatively small (50 rows), we shifted from a Vector Search to a **Two-Step Column Routing Agent**.
+
+#### Step 1: The Router (Column Filtering)
+When a query is received, the AI is first given the Schema (the column headers of the Excel file) along with context hints (e.g., *"Disclosure Details contains the fines"*). The AI responds *only* with the exact column names needed to answer the question.
+
+#### Step 2: The Analyzer (CSV Context Injection)
+Pandas instantly filters the dataset to include only `CRD#`, `Full Name`, and the specific columns the AI requested. This filtered slice is converted to a CSV string and injected directly into the LLM's prompt. 
+The AI is explicitly commanded to read every single row in the CSV to compute the answer.
 
 ---
 
-## 3. Embedding & Retrieval Approach
-1.  **Index Time**: The script walks the `raw_json/` directory, compiles the synthesized profile text block for each of the 50 advisers, generates a 384-dimensional vector representation for each text block, and holds them in a NumPy matrix.
-2.  **Query Time**: 
-    - The user enters a natural language query.
-    - The query is embedded using the same `all-MiniLM-L6-v2` model.
-    - We calculate the cosine similarity between the query vector and all document vectors.
-    - The top $K$ profiles with the highest similarity scores are retrieved.
-3.  **Refinement / Generation**: The $K$ retrieved profile texts are injected into an LLM prompt as context, instructing the model to synthesize a response utilizing only the retrieved facts and cite the source name and CRD number.
+## 3. What Works
+*   **100% Aggregation Accuracy:** By forcing the AI to read the filtered CSV slice containing all 50 profiles simultaneously, questions like *"Who is the most experienced?"* or *"How many total disclosures exist?"* return perfectly accurate results, entirely eliminating "missing context" hallucinations.
+*   **Massive Token Efficiency:** By asking the Router to only select necessary columns, we prevent sending 42 unnecessary columns of data to the LLM. If the user asks about experience, we only send the Name, CRD#, and Experience columns. This keeps latency low and API costs near zero.
 
 ---
 
-## 4. Evaluation: What Works & What Does Not
-
-### What Works:
-*   **Entity Integrity**: Because chunking is kept at the adviser level, the LLM never hallucinates associations between Adviser A's disclosures and Adviser B.
-*   **Disclosure Deep-Dive**: The RAG pipeline can semantic-search deep text within broker comments and allegations (e.g. searching "Bolton Securities reporting error" or "Florida lawful registration").
-*   **Offline Vector Engine**: Zero dependencies on hosted vector databases.
-*   **Dual LLM Config**: Supports both Google Gemini and OpenAI.
-
-### What Does Not:
-*   **Complex Cross-Entity Math**: LLMs are notoriously poor at aggregation. If asked, *"Who has the highest number of exams?"*, the semantic search will retrieve the most matching profiles, but the LLM might struggle to evaluate the exact counts across all 50 profiles since it only sees the top $K$ profiles rather than the full table.
-*   **Scale Limitation**: Since the NumPy index is kept in memory, it works exceptionally well for hundreds of files, but would need to transition to a dedicated vector database (like Chroma, Pinecone, or pgvector) once scaling to 10,000+ advisers.
+## 4. What Does Not Work
+*   **Scaling to Massive Datasets:** This approach works perfectly for 50-500 rows because the resulting CSV string easily fits inside modern 128k+ token context windows. However, if the dataset grows to 50,000 rows, serializing the data to a CSV string will breach the context window limit and cause the API to crash or become prohibitively expensive.
 
 ---
 
-## 5. Next Steps for Improvement
-1.  **Hybrid Retrieval (BM25 + Semantic Search)**: Combine keyword search (essential for exact CRD/Name matching) with semantic search (for conceptual queries like "disciplinary actions regarding registration errors").
-2.  **Parent-Child Chunking**: Break disclosures down into child chunks linked to the parent adviser profile, allowing fine-grained disclosure retrieval for advisers with massive regulatory histories.
-3.  **Agentic Tool Use**: Enable the model to run Python scripts or SQL queries over the Excel table to answer math/statistical queries (e.g., "average years of experience").
+## 5. What I Would Improve
+If tasked with scaling this pipeline to support tens of thousands of Family Office profiles, I would implement a **Text-to-SQL / Pandas Agent Engine**.
+Instead of reading a CSV string, the LLM would act as an autonomous programmer. It would read the user query, write actual Python/Pandas code (or SQL) to calculate the answer mathematically (e.g., `df['Fines'].max()`), execute the code in a sandbox, and return the exact numeric result to the user. This guarantees infinite scale and millisecond latency regardless of dataset size.

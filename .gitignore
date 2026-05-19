@@ -10,6 +10,7 @@
 !family_offices_v2.xlsx
 !raw_json/**
 !crd.csv
+!METHODOLOGY.md
 !RAG_DOCUMENTATION.md
 !README.md
 !requirements.txt
