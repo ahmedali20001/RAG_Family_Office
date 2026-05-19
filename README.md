@@ -60,7 +60,7 @@ You can instantly host this dashboard on the internet for free using Streamlit C
 1. Go to [share.streamlit.io](https://share.streamlit.io/).
 2. Log in with your GitHub account.
 3. Click **Create app**.
-4. Select the repository `ahmedali20001/RAG_Family_Office` and set the Main file path to `app.py`.
+4. Select the repository `YOUR_USERNAME/YOUR_REPO_NAME` and set the Main file path to `app.py`.
 5. Click **Deploy!**
 
 Within 60 seconds, your application will be live with a public URL!
