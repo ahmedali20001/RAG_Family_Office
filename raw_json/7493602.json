@@ -1,0 +1,135 @@
+{
+  "basicInformation": {
+    "individualId": 7493602,
+    "firstName": "William",
+    "middleName": "B",
+    "lastName": "Bailey",
+    "otherNames": [
+      "Bond  Bailey",
+      "William  Bailey"
+    ],
+    "bcScope": "Active",
+    "iaScope": "InActive",
+    "daysInIndustryIAPD": 726
+  },
+  "currentEmployments": [],
+  "currentIAEmployments": [],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "127416",
+      "iaSECNumberType": "801",
+      "firmId": 325089,
+      "firmName": "STENGER FAMILY OFFICE, LLC",
+      "city": "NAPERVILLE",
+      "state": "IL",
+      "country": "United States",
+      "registrationBeginDate": "6/26/2023",
+      "registrationEndDate": "9/9/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "70103",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "68191",
+      "firmId": 149777,
+      "firmName": "MORGAN STANLEY",
+      "city": "Oak Brook",
+      "state": "IL",
+      "country": "United States",
+      "registrationBeginDate": "6/28/2022",
+      "registrationEndDate": "4/7/2023",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 2
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "6/28/2022",
+      "examScope": "BOTH"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 7TO",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "3/7/2022",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "12/11/2021",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 1,
+    "approvedFinraRegistrationCount": 1,
+    "approvedStateRegistrationCount": 5,
+    "approvedIAStateRegistrationCount": 0
+  },
+  "registeredStates": [
+    {
+      "state": "Alabama",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "4/4/2025"
+    },
+    {
+      "state": "Arkansas",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "4/4/2025"
+    },
+    {
+      "state": "Illinois",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/3/2024"
+    },
+    {
+      "state": "Louisiana",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "1/2/2025"
+    },
+    {
+      "state": "Mississippi",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "1/2/2025"
+    }
+  ],
+  "registeredSROs": [
+    {
+      "sro": "FINRA",
+      "status": "APPROVED",
+      "CategoriesList": [
+        "Full Registration/General Securities Representative"
+      ]
+    }
+  ],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

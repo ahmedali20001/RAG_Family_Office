@@ -1,0 +1,90 @@
+{
+  "basicInformation": {
+    "individualId": 7692547,
+    "firstName": "Devin",
+    "middleName": "Caroline",
+    "lastName": "Brieske",
+    "otherNames": [
+      "Devin  Brieske"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "1/30/2023"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 300899,
+      "firmName": "STOKES FAMILY OFFICE LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "1/31/2023",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "711526",
+          "street1": "1100 POYDRAS ST",
+          "street2": "STE. 2775",
+          "city": "NEW ORLEANS",
+          "cityAlias": [
+            "NEW ORLEANS"
+          ],
+          "state": "LA",
+          "country": "United States",
+          "zipCode": "70163",
+          "latitude": "29.95006",
+          "longitude": "-90.075322",
+          "geoLocation": "29.95006,-90.075322",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "10/05/2020"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 0,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "Louisiana",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "1/31/2023"
+    },
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "1/31/2023"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

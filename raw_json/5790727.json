@@ -1,0 +1,175 @@
+{
+  "basicInformation": {
+    "individualId": 5790727,
+    "firstName": "WILLIAM",
+    "middleName": "FREDRICK",
+    "lastName": "BLAKE",
+    "nameSuffix": "II",
+    "otherNames": [
+      "BILL  BLAKE",
+      "WILLIAM F. BLAKE",
+      "WILLIAM FREDERICK BLAKE"
+    ],
+    "bcScope": "InActive",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "6/13/2010"
+  },
+  "currentEmployments": [],
+  "currentIAEmployments": [
+    {
+      "firmId": 312154,
+      "firmName": "PMG FAMILY OFFICE, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "1/15/2021",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "130947",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "751260",
+          "street1": "5700 WEST PLANO PKWY",
+          "street2": "SUITE 2600",
+          "city": "PLANO",
+          "cityAlias": [
+            "PLANO"
+          ],
+          "state": "TX",
+          "country": "United States",
+          "zipCode": "75093",
+          "latitude": "33.036713",
+          "longitude": "-96.813533",
+          "geoLocation": "33.036713,-96.813533",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "01/15/2021"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "7163",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "16267",
+      "firmId": 8174,
+      "firmName": "UBS FINANCIAL SERVICES INC.",
+      "city": "PLANO",
+      "state": "TX",
+      "registrationBeginDate": "6/21/2011",
+      "registrationEndDate": "1/28/2021",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "22306",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "30447",
+      "firmId": 14251,
+      "firmName": "METLIFE SECURITIES INC.",
+      "city": "DALLAS",
+      "state": "TX",
+      "registrationBeginDate": "6/14/2010",
+      "registrationEndDate": "6/24/2011",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "INACTIVE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "7163",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "16267",
+      "firmId": 8174,
+      "firmName": "UBS FINANCIAL SERVICES INC.",
+      "city": "PLANO",
+      "state": "TX",
+      "country": "United States",
+      "registrationBeginDate": "6/21/2011",
+      "registrationEndDate": "1/28/2021",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "22306",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "30447",
+      "firmId": 14251,
+      "firmName": "METLIFE SECURITIES INC.",
+      "city": "DALLAS",
+      "state": "TX",
+      "country": "United States",
+      "registrationBeginDate": "7/1/2010",
+      "registrationEndDate": "6/24/2011",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "INACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 3
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "6/7/2010",
+      "examScope": "BOTH"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 7TO",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "3/29/2024",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "6/10/2010",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "1/15/2021"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

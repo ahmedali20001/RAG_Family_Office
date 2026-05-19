@@ -1,0 +1,128 @@
+{
+  "basicInformation": {
+    "individualId": 6783568,
+    "firstName": "Ricardo",
+    "middleName": "A",
+    "lastName": "Aylagas",
+    "otherNames": [
+      "RICARDO  AYLAGAS",
+      "RICARDO ALBERTO AYLAGAS NARANJO"
+    ],
+    "bcScope": "InActive",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "12/17/2021"
+  },
+  "currentEmployments": [],
+  "currentIAEmployments": [
+    {
+      "firmId": 315653,
+      "firmName": "FOUNDERS FAMILY OFFICE",
+      "iaOnly": "Y",
+      "registrationBeginDate": "3/18/2025",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "123712",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "783037",
+          "street1": "98 SE 7TH ST",
+          "street2": "SUITE 620",
+          "city": "MIAMI",
+          "cityAlias": [
+            "MIAMI"
+          ],
+          "state": "FL",
+          "country": "United States",
+          "zipCode": "33131",
+          "latitude": "25.765482",
+          "longitude": "-80.188406",
+          "geoLocation": "25.765482,-80.188406",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "01/13/2025"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "3702",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "35008",
+      "firmId": 79,
+      "firmName": "J.P. MORGAN SECURITIES LLC",
+      "city": "Miami",
+      "state": "FL",
+      "registrationBeginDate": "6/12/2017",
+      "registrationEndDate": "9/9/2020",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "previousIAEmployments": [],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 2
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "12/17/2024",
+      "examScope": "IA"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "7/8/2017",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "6/12/2017",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Florida",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "3/18/2025"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "basicInformation": {
+    "individualId": 4543091,
+    "firstName": "SPENCER",
+    "middleName": "NORTON",
+    "lastName": "BOGGESS",
+    "otherNames": [
+      "SPENCER N BOGGESS"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "7/24/2006"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 283390,
+      "firmName": "TRUIST ADVISORY SERVICES, INC.",
+      "iaOnly": "Y",
+      "registrationBeginDate": "4/21/2017",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "50 HUDSON YARDS",
+          "street2": "69TH FLOOR",
+          "city": "NEW YORK",
+          "cityAlias": [
+            "EMPIRE STATE",
+            "GPO",
+            "GREELEY SQUARE",
+            "MACYS FINANCE",
+            "MANHATTAN",
+            "NEW YORK",
+            "NEW YORK CITY",
+            "NY",
+            "NY CITY",
+            "NYC"
+          ],
+          "state": "NY",
+          "country": "United States",
+          "zipCode": "10001",
+          "latitude": "40.7508",
+          "longitude": "-73.996122",
+          "geoLocation": "40.7508,-73.996122",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "12/19/2023"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "56752",
+      "iaSECNumberType": "801",
+      "firmId": 109278,
+      "firmName": "GENSPRING FAMILY OFFICES, LLC",
+      "city": "Greenwich",
+      "state": "CT",
+      "country": "United States",
+      "registrationBeginDate": "5/5/2017",
+      "registrationEndDate": "12/31/2017",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "14235",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "7221",
+      "firmId": 7691,
+      "firmName": "MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "United States",
+      "registrationBeginDate": "6/20/2011",
+      "registrationEndDate": "5/15/2015",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "45350",
+      "iaSECNumberType": "801",
+      "firmId": 107079,
+      "firmName": "CTC CONSULTING, INC.",
+      "city": "PORTLAND",
+      "state": "OR",
+      "country": "United States",
+      "registrationBeginDate": "7/20/2001",
+      "registrationEndDate": "5/20/2008",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 1,
+    "productExamCount": 2
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "4/5/2017",
+      "examScope": "IA"
+    },
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "6/18/2011",
+      "examScope": "BOTH"
+    }
+  ],
+  "principalExamCategory": [
+    {
+      "examCategory": "Series 24",
+      "examName": "General Securities Principal Examination",
+      "examTakenDate": "2/16/2011",
+      "examScope": "BC"
+    }
+  ],
+  "productExamCategory": [
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "5/15/2015",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "11/30/2010",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "New York",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "7/29/2021"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

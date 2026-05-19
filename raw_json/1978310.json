@@ -1,0 +1,259 @@
+{
+  "basicInformation": {
+    "individualId": 1978310,
+    "firstName": "NICHOLAS",
+    "middleName": "JAMES",
+    "lastName": "BERTHA",
+    "nameSuffix": "III",
+    "otherNames": [
+      "NICHOLAS JAMES BERTHA"
+    ],
+    "bcScope": "InActive",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "12/2/2006"
+  },
+  "currentEmployments": [],
+  "currentIAEmployments": [
+    {
+      "firmId": 323432,
+      "firmName": "HAMPSHIRE FAMILY OFFICE",
+      "iaOnly": "Y",
+      "registrationBeginDate": "6/21/2023",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "126787",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "Y",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "11/01/2022"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "78295",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "37105",
+      "firmId": 18975,
+      "firmName": "FIELDPOINT PRIVATE SECURITIES, LLC",
+      "city": "NEW YORK",
+      "state": "NY",
+      "registrationBeginDate": "12/7/2011",
+      "registrationEndDate": "11/30/2022",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "56264",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "422",
+      "firmId": 816,
+      "firmName": "CREDIT SUISSE SECURITIES (USA) LLC",
+      "city": "NEW YORK",
+      "state": "NY",
+      "registrationBeginDate": "5/19/2005",
+      "registrationEndDate": "5/8/2008",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "49390",
+      "firmId": 41271,
+      "firmName": "ROBERTSON STEPHENS, INC.",
+      "city": "SAN FRANCISCO",
+      "state": "CA",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "11/2/2000",
+      "registrationEndDate": "7/25/2002",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "17574",
+      "firmId": 7560,
+      "firmName": "DONALDSON, LUFKIN & JENRETTE SECURITIES CORPORATION",
+      "city": "JERSEY CITY",
+      "state": "NJ",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "6/30/2000",
+      "registrationEndDate": "11/20/2000",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "20745",
+      "firmId": 7829,
+      "firmName": "MERCER ALLIED CORPORATION",
+      "registrationBeginDate": "3/21/1990",
+      "registrationEndDate": "9/26/1990",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "78295",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "37105",
+      "firmId": 18975,
+      "firmName": "FIELDPOINT PRIVATE SECURITIES LLC",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "United States",
+      "registrationBeginDate": "6/7/2012",
+      "registrationEndDate": "11/30/2022",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "56264",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "422",
+      "firmId": 816,
+      "firmName": "CREDIT SUISSE SECURITIES (USA) LLC",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "United States",
+      "registrationBeginDate": "9/27/2006",
+      "registrationEndDate": "5/8/2008",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "bdSECNumber": "49390",
+      "firmId": 41271,
+      "firmName": "ROBERTSON STEPHENS, INC.",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "United States",
+      "registrationBeginDate": "4/13/2001",
+      "registrationEndDate": "7/25/2002",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "disclosureFlag": "Y",
+  "iaDisclosureFlag": "Y",
+  "disclosures": [
+    {
+      "eventDate": "5/9/1988",
+      "disclosureType": "Regulatory",
+      "disclosureResolution": "Final",
+      "isIapdExcludedCCFlag": "N",
+      "isBcExcludedCCFlag": "N",
+      "bcCtgryType": 11,
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "DocketNumberFDA": "",
+        "DocketNumberAAO": "",
+        "Initiated By": "SUPREME COURT OF WISCONSIN BOARD OF ATTORNEYS",
+        "Allegations": "THE WISCONSIN BAR REQUIRES ANNUAL ATTENDANCE AND REPORTING OF (15) HOURS OF CONTINUING LEGAL EDUCATION COURSES.  UPON MY MOVE FROM WISCONSIN TO NEW YORK, THE BAR FAILED TO RECORD MY FORWARDING ADDRESS OR SEND ME ANY INFORMATION ON CURRENT REPORTING.  I DID, IN FACT, ATTEND (15) HOURS OF CONTINUING LEGAL EDUCATION COURSES IN 1987.  THIS ATTENDANCE WAS SUBSEQUENTLY PROPERLY REPORTED TO THE WISCONSIN BAR AND THE MATTER HAS BEEN RESOLVED.",
+        "Resolution": "THIS ATTENDANCE WAS SUBSEQUENTLY PROPERLY REPORTED TO THE WISCONSIN BAR AND THE MATTER HAS BEEN RESOLVED.",
+        "SanctionDetails": [
+          {
+            "Sanctions": "Suspension",
+            "SanctionDetails": [
+              {
+                "Registration Capacities Affected": "Not financial related",
+                "Duration": "1 year",
+                "Start Date": "5/9/1988",
+                "End Date": "5/24/1989"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "iaDisclosures": [
+    {
+      "disclosureType": "Regulatory Event",
+      "disclosureCount": 1
+    }
+  ],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 3
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "9/26/2012",
+      "examScope": "BOTH"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "6/28/2005",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "10/22/1999",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 6",
+      "examName": "Investment Company Products/Variable Contracts Representative Examination",
+      "examTakenDate": "10/3/1994",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "New Hampshire",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "6/21/2023"
+    },
+    {
+      "state": "New York",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "2/20/2024"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

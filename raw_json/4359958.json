@@ -1,0 +1,75 @@
+{
+  "basicInformation": {
+    "individualId": 4359958,
+    "firstName": "GEORGE",
+    "middleName": "PUTNAM",
+    "lastName": "BEAL",
+    "otherNames": [],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "1/1/1999"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 107141,
+      "firmName": "BOSTON FAMILY OFFICE LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "1/1/1999",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "88 BROAD STREET",
+          "city": "BOSTON",
+          "cityAlias": [
+            "BOSTON"
+          ],
+          "state": "MA",
+          "country": "United States",
+          "zipCode": "02110",
+          "latitude": "42.357176",
+          "longitude": "-71.053614",
+          "geoLocation": "42.357176,-71.053614",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "10/01/1996"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 0,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Massachusetts",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "1/1/1999"
+    }
+  ],
+  "registeredSROs": [],
+  "currentEmployments": []
+}

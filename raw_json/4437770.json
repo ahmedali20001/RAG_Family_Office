@@ -1,0 +1,351 @@
+{
+  "basicInformation": {
+    "individualId": 4437770,
+    "firstName": "JOSEPH",
+    "middleName": "SCOTT",
+    "lastName": "BAUERS",
+    "otherNames": [
+      "JOSEPH SCOTT BAUERS JR",
+      "JOSEPH  SCOTT  BAUERS JR"
+    ],
+    "bcScope": "Active",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "11/12/2001"
+  },
+  "currentEmployments": [
+    {
+      "firmId": 11869,
+      "firmName": "PLANMEMBER SECURITIES CORPORATION",
+      "iaOnly": "N",
+      "registrationBeginDate": "11/22/2016",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "39177",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "25065",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "383084",
+          "street1": "10085 Carroll Canyon Road, Suite 150",
+          "city": "San Diego",
+          "cityAlias": [
+            "SAN DIEGO"
+          ],
+          "state": "CA",
+          "country": "United States",
+          "zipCode": "92131",
+          "latitude": "32.915392",
+          "longitude": "-117.083559",
+          "geoLocation": "32.915392,-117.083559",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "11/22/2016"
+        }
+      ]
+    }
+  ],
+  "currentIAEmployments": [
+    {
+      "firmId": 130711,
+      "firmName": "SUPERIOR PLANNING WEALTH MANAGEMENT & FAMILY OFFICE",
+      "iaOnly": "Y",
+      "registrationBeginDate": "9/20/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "131301",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "51872",
+          "street1": "10085 CARROLL CANYON ROAD",
+          "street2": "SUITE 150",
+          "city": "SAN DIEGO",
+          "cityAlias": [
+            "SAN DIEGO"
+          ],
+          "state": "CA",
+          "country": "United States",
+          "zipCode": "92131",
+          "latitude": "32.915392",
+          "longitude": "-117.083559",
+          "geoLocation": "32.915392,-117.083559",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "09/01/2024"
+        }
+      ]
+    },
+    {
+      "firmId": 11869,
+      "firmName": "PLANMEMBER SECURITIES CORPORATION",
+      "iaOnly": "Y",
+      "registrationBeginDate": "11/22/2016",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "39177",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "25065",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "383084",
+          "street1": "10085 Carroll Canyon Road, Suite 150",
+          "city": "San Diego",
+          "cityAlias": [
+            "SAN DIEGO"
+          ],
+          "state": "CA",
+          "country": "United States",
+          "zipCode": "92131",
+          "latitude": "32.915392",
+          "longitude": "-117.083559",
+          "geoLocation": "32.915392,-117.083559",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "11/22/2016"
+        },
+        {
+          "displayOrder": 3,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "2555 Camino Del Rio South",
+          "city": "San Diego",
+          "cityAlias": [
+            "SAN DIEGO"
+          ],
+          "state": "CA",
+          "country": "United States",
+          "zipCode": "92108",
+          "latitude": "32.774",
+          "longitude": "-117.147448",
+          "geoLocation": "32.774,-117.147448",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "01/18/2023"
+        }
+      ]
+    },
+    {
+      "firmId": 11869,
+      "firmName": "PLANMEMBER SECURITIES CORPORATION",
+      "iaOnly": "N",
+      "registrationBeginDate": "11/22/2016",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "39177",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "25065",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 3,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "2555 Camino Del Rio South",
+          "city": "San Diego",
+          "cityAlias": [
+            "SAN DIEGO"
+          ],
+          "state": "CA",
+          "country": "United States",
+          "zipCode": "92108",
+          "latitude": "32.774",
+          "longitude": "-117.147448",
+          "geoLocation": "32.774,-117.147448",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "01/18/2023"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "42123",
+      "firmId": 25900,
+      "firmName": "AXA DISTRIBUTORS, LLC",
+      "city": "CHARLOTTE",
+      "state": "NC",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "6/4/2015",
+      "registrationEndDate": "10/31/2016",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "14065",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "17883",
+      "firmId": 6627,
+      "firmName": "AXA ADVISORS, LLC",
+      "city": "SAN DIEGO",
+      "state": "CA",
+      "registrationBeginDate": "10/23/2001",
+      "registrationEndDate": "6/3/2015",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "14065",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "17883",
+      "firmId": 6627,
+      "firmName": "AXA ADVISORS, LLC",
+      "city": "SAN DIEGO",
+      "state": "CA",
+      "country": "United States",
+      "registrationBeginDate": "12/31/2001",
+      "registrationEndDate": "6/3/2015",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 1,
+    "productExamCount": 2
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "12/3/2001",
+      "examScope": "BOTH"
+    }
+  ],
+  "principalExamCategory": [
+    {
+      "examCategory": "Series 24",
+      "examName": "General Securities Principal Examination",
+      "examTakenDate": "12/23/2009",
+      "examScope": "BC"
+    }
+  ],
+  "productExamCategory": [
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "10/22/2001",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 1,
+    "approvedFinraRegistrationCount": 1,
+    "approvedStateRegistrationCount": 11,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Alabama",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/1/2023"
+    },
+    {
+      "state": "Arizona",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/1/2023"
+    },
+    {
+      "state": "California",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/22/2016"
+    },
+    {
+      "state": "California",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "11/22/2016"
+    },
+    {
+      "state": "Colorado",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "1/20/2017"
+    },
+    {
+      "state": "District of Columbia",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/5/2021"
+    },
+    {
+      "state": "Georgia",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/1/2023"
+    },
+    {
+      "state": "Illinois",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "1/8/2019"
+    },
+    {
+      "state": "North Carolina",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/1/2023"
+    },
+    {
+      "state": "Rhode Island",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "8/7/2024"
+    },
+    {
+      "state": "Tennessee",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "1/20/2023"
+    },
+    {
+      "state": "Texas",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "1/8/2019"
+    }
+  ],
+  "registeredSROs": [
+    {
+      "sro": "FINRA",
+      "status": "APPROVED",
+      "CategoriesList": [
+        "General Securities Principal",
+        "Full Registration/General Securities Representative"
+      ]
+    }
+  ],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

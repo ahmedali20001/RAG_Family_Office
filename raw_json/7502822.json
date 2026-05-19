@@ -1,0 +1,79 @@
+{
+  "basicInformation": {
+    "individualId": 7502822,
+    "firstName": "Christian",
+    "lastName": "Brakke",
+    "otherNames": [],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "2/8/2022"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 316024,
+      "firmName": "FINANCIAL GRAVITY FAMILY OFFICE SERVICES, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "2/9/2022",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "Y",
+          "city": "New Orleans",
+          "state": "LA",
+          "country": "United States",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "02/04/2022"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "1/18/2022",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "Louisiana",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "2/9/2022"
+    },
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "2/9/2022"
+    }
+  ],
+  "registeredSROs": [],
+  "currentEmployments": []
+}

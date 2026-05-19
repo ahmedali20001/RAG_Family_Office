@@ -1,0 +1,200 @@
+{
+  "basicInformation": {
+    "individualId": 1813496,
+    "firstName": "RICHARD",
+    "middleName": "MARK",
+    "lastName": "ALLISON",
+    "otherNames": [
+      "RICHARD Mark Allison",
+      "RICHARD ALLISON JOHNSON",
+      "RICK  JOHNSON"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "12/16/2001"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 141456,
+      "firmName": "MARIAN FINANCIAL SERVICES, INC.",
+      "iaOnly": "Y",
+      "registrationBeginDate": "10/1/2008",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "Y",
+          "branchOfficeId": "296549",
+          "city": "ST. JOHNS",
+          "state": "FL",
+          "country": "United States",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "01/01/2012"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "firmId": 286180,
+      "firmName": "FIRST COAST PLANNING, LLC",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "country": "United States",
+      "registrationBeginDate": "7/25/2017",
+      "registrationEndDate": "2/7/2020",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "68867",
+      "iaSECNumberType": "801",
+      "firmId": 134897,
+      "firmName": "FIRST FINANCIAL ADVISORS, LLC",
+      "city": "EASLEY",
+      "state": "SC",
+      "country": "United States",
+      "registrationBeginDate": "6/6/2007",
+      "registrationEndDate": "8/20/2008",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "firmId": 133532,
+      "firmName": "SKADVISORS, LLC",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "country": "United States",
+      "registrationBeginDate": "2/23/2006",
+      "registrationEndDate": "4/4/2007",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "firmId": 132776,
+      "firmName": "RICK JOHNSON FAMILY OFFICE, LLC",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "country": "United States",
+      "registrationBeginDate": "9/22/2004",
+      "registrationEndDate": "3/4/2005",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "29938",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "16514",
+      "firmId": 5393,
+      "firmName": "CHARLES SCHWAB & CO., INC.",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "country": "United States",
+      "registrationBeginDate": "8/7/2000",
+      "registrationEndDate": "8/13/2004",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 3,
+    "productExamCount": 1
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "8/9/1996",
+      "examScope": "IA"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "5/24/1988",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [
+    {
+      "examCategory": "Series 9",
+      "examName": "General Securities Sales Supervisor - Options Module Examination",
+      "examTakenDate": "12/9/2000",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 10",
+      "examName": "General Securities Sales Supervisor - General Module Examination",
+      "examTakenDate": "12/2/2000",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 24",
+      "examName": "General Securities Principal Examination",
+      "examTakenDate": "10/24/1991",
+      "examScope": "BC"
+    }
+  ],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "4/16/1988",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 4
+  },
+  "registeredStates": [
+    {
+      "state": "California",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "11/20/2020"
+    },
+    {
+      "state": "Florida",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "10/28/2008"
+    },
+    {
+      "state": "Louisiana",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "6/3/2024"
+    },
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "11/10/2009"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

@@ -1,0 +1,253 @@
+{
+  "basicInformation": {
+    "individualId": 3230747,
+    "firstName": "IRENE",
+    "middleName": "GERASIMOS",
+    "lastName": "APERGIS",
+    "otherNames": [
+      "RINI  APERGIS",
+      "IRENE G ASPERGIS"
+    ],
+    "bcScope": "InActive",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "12/23/2004"
+  },
+  "currentEmployments": [],
+  "currentIAEmployments": [
+    {
+      "firmId": 168744,
+      "firmName": "ARROWROOT FAMILY OFFICE, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "8/5/2017",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "121878",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "Y",
+          "city": "Lakewood",
+          "state": "CO",
+          "country": "United States",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "01/01/2024"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "69528",
+      "firmId": 173085,
+      "firmName": "ARROWROOT PARTNERS, LLC",
+      "city": "SANTA MONICA",
+      "state": "CA",
+      "registrationBeginDate": "5/18/2017",
+      "registrationEndDate": "8/10/2020",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "7163",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "16267",
+      "firmId": 8174,
+      "firmName": "UBS FINANCIAL SERVICES INC.",
+      "city": "CENTURY CITY",
+      "state": "CA",
+      "registrationBeginDate": "7/14/2010",
+      "registrationEndDate": "6/2/2014",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "3702",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "35008",
+      "firmId": 79,
+      "firmName": "J.P. MORGAN SECURITIES INC.",
+      "city": "LOS ANGELES",
+      "state": "CA",
+      "registrationBeginDate": "1/25/2007",
+      "registrationEndDate": "7/27/2010",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "52614",
+      "firmId": 104162,
+      "firmName": "ASSENT LLC",
+      "city": "LOS ANGELES",
+      "state": "CA",
+      "registrationBeginDate": "10/12/2006",
+      "registrationEndDate": "1/16/2007",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "14235",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "7221",
+      "firmId": 7691,
+      "firmName": "MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "7/8/1999",
+      "registrationEndDate": "11/19/2002",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "63665",
+      "iaSECNumberType": "801",
+      "firmId": 133319,
+      "firmName": "KLS PROFESSIONAL ADVISORS GROUP, LLC",
+      "city": "LOS ANGELES",
+      "state": "CA",
+      "country": "United States",
+      "registrationBeginDate": "9/9/2014",
+      "registrationEndDate": "2/4/2016",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "7163",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "16267",
+      "firmId": 8174,
+      "firmName": "UBS FINANCIAL SERVICES INC.",
+      "city": "CENTURY CITY",
+      "state": "CA",
+      "country": "United States",
+      "registrationBeginDate": "7/14/2010",
+      "registrationEndDate": "6/2/2014",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "3702",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "35008",
+      "firmId": 79,
+      "firmName": "J.P.MORGAN SECURITIES INC.",
+      "city": "LOS ANGELES",
+      "state": "CA",
+      "country": "United States",
+      "registrationBeginDate": "4/26/2007",
+      "registrationEndDate": "7/27/2010",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 3,
+    "principalExamCount": 2,
+    "productExamCount": 4
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "8/2/2017",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "4/19/2007",
+      "examScope": "IA"
+    },
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "9/2/1999",
+      "examScope": "BOTH"
+    }
+  ],
+  "principalExamCategory": [
+    {
+      "examCategory": "Series 27",
+      "examName": "Financial and Operations Principal Examination",
+      "examTakenDate": "2/4/2024",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 24",
+      "examName": "General Securities Principal Examination",
+      "examTakenDate": "2/4/2024",
+      "examScope": "BC"
+    }
+  ],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 79TO",
+      "examName": "Investment Banking Registered Representative Examination",
+      "examTakenDate": "2/4/2024",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 79",
+      "examName": "Investment Banking Registered Representative Examination",
+      "examTakenDate": "5/18/2017",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "10/11/2006",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "California",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "8/5/2017"
+    },
+    {
+      "state": "Colorado",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "12/16/2024"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

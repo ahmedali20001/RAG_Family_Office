@@ -1,0 +1,156 @@
+{
+  "basicInformation": {
+    "individualId": 7907134,
+    "firstName": "Patrick",
+    "middleName": "Mylin",
+    "lastName": "Bowers",
+    "otherNames": [
+      "Patrick  Bowers"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "7/6/2024"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 130711,
+      "firmName": "SUPERIOR PLANNING WEALTH MANAGEMENT & FAMILY OFFICE",
+      "iaOnly": "Y",
+      "registrationBeginDate": "4/21/2026",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "51872",
+          "street1": "10085 CARROLL CANYON ROAD",
+          "street2": "SUITE 150",
+          "city": "SAN DIEGO",
+          "cityAlias": [
+            "SAN DIEGO"
+          ],
+          "state": "CA",
+          "country": "United States",
+          "zipCode": "92131",
+          "latitude": "32.915392",
+          "longitude": "-117.083559",
+          "geoLocation": "32.915392,-117.083559",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "04/13/2026"
+        }
+      ]
+    },
+    {
+      "firmId": 11869,
+      "firmName": "PLANMEMBER SECURITIES CORPORATION",
+      "iaOnly": "Y",
+      "registrationBeginDate": "7/22/2024",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "383084",
+          "street1": "10085 Carroll Canyon Road, Suite 150",
+          "city": "San Diego",
+          "cityAlias": [
+            "SAN DIEGO"
+          ],
+          "state": "CA",
+          "country": "United States",
+          "zipCode": "92131",
+          "latitude": "32.915392",
+          "longitude": "-117.083559",
+          "geoLocation": "32.915392,-117.083559",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "07/16/2024"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "67628",
+      "iaSECNumberType": "801",
+      "firmId": 137658,
+      "firmName": "BROOKSTONE WEALTH ADVISORS, LLC",
+      "city": "Alpine",
+      "state": "CA",
+      "country": "United States",
+      "registrationBeginDate": "4/24/2024",
+      "registrationEndDate": "5/8/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "Y",
+  "iaDisclosureFlag": "Y",
+  "disclosures": [
+    {
+      "eventDate": "10/29/2016",
+      "disclosureType": "Financial",
+      "disclosureResolution": "Final",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "Type": "Bankruptcy",
+        "Disposition": "Discharged",
+        "Broker Comment": [
+          "Due to loss of business income and increase in cost of living for family with three children."
+        ]
+      }
+    }
+  ],
+  "iaDisclosures": [
+    {
+      "disclosureType": "Financial",
+      "disclosureCount": 1
+    }
+  ],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "3/29/2024",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "California",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "7/22/2024"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

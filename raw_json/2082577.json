@@ -1,0 +1,550 @@
+{
+  "basicInformation": {
+    "individualId": 2082577,
+    "firstName": "RUSSELL",
+    "middleName": "BRADFORD",
+    "lastName": "DOW",
+    "otherNames": [],
+    "bcScope": "Active",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "11/18/1991"
+  },
+  "currentEmployments": [
+    {
+      "firmId": 15650,
+      "firmName": "BOLTON GLOBAL CAPITAL",
+      "iaOnly": "N",
+      "registrationBeginDate": "10/28/2005",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE",
+      "bdSECNumber": "33222",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "200287",
+          "street1": "358 U. S. ROUTE ONE",
+          "city": "FALMOUTH",
+          "cityAlias": [
+            "FALMOUTH",
+            "FALMOUTH FORESIDE",
+            "PORTLAND"
+          ],
+          "state": "ME",
+          "country": "United States",
+          "zipCode": "04105",
+          "latitude": "43.748283",
+          "longitude": "-70.273362",
+          "geoLocation": "43.748283,-70.273362",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "11/01/2005"
+        },
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "435411",
+          "street1": "8205 NATURE'S WAY",
+          "street2": "# 219",
+          "city": "LAKEWOOD RANCH",
+          "cityAlias": [
+            "BRADENTON",
+            "LAKEWOOD RANCH",
+            "LAKEWOOD RCH"
+          ],
+          "state": "FL",
+          "country": "United States",
+          "zipCode": "34202",
+          "latitude": "27.413426",
+          "longitude": "-82.378182",
+          "geoLocation": "27.413426,-82.378182",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "02/09/2010"
+        }
+      ]
+    }
+  ],
+  "currentIAEmployments": [
+    {
+      "firmId": 340475,
+      "firmName": "DOW FAMILY OFFICE ADVISORY, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "4/28/2026",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "135723",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "889519",
+          "street1": "8205 NATURE'S WAY",
+          "street2": "#219",
+          "city": "LAKEWOOD RANCH",
+          "cityAlias": [
+            "BRADENTON",
+            "LAKEWOOD RANCH",
+            "LAKEWOOD RCH"
+          ],
+          "state": "FL",
+          "country": "United States",
+          "zipCode": "34202",
+          "latitude": "27.413426",
+          "longitude": "-82.378182",
+          "geoLocation": "27.413426,-82.378182",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "04/27/2026"
+        }
+      ]
+    },
+    {
+      "firmId": 129376,
+      "firmName": "BOLTON GLOBAL ASSET MANAGEMENT",
+      "iaOnly": "Y",
+      "registrationBeginDate": "11/17/2009",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "66962",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "68187",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "358 U.S. ROUTE ONE",
+          "city": "FALMOUTH",
+          "cityAlias": [
+            "FALMOUTH",
+            "FALMOUTH FORESIDE",
+            "PORTLAND"
+          ],
+          "state": "ME",
+          "country": "United States",
+          "zipCode": "04105",
+          "latitude": "43.748283",
+          "longitude": "-70.273362",
+          "geoLocation": "43.748283,-70.273362",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "10/23/2007"
+        },
+        {
+          "displayOrder": 3,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "8205 NATURES WAY",
+          "street2": "SUITE # 219",
+          "city": "LAKEWOOD",
+          "cityAlias": [
+            "BRADENTON",
+            "LAKEWOOD RANCH",
+            "LAKEWOOD RCH"
+          ],
+          "state": "FL",
+          "country": "United States",
+          "zipCode": "34202",
+          "latitude": "27.413426",
+          "longitude": "-82.378182",
+          "geoLocation": "27.413426,-82.378182",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "11/30/2016"
+        },
+        {
+          "displayOrder": 4,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "1441 BRICKELL AVENUE",
+          "street2": "SUITE 1700",
+          "city": "MIAMI",
+          "cityAlias": [
+            "MIAMI"
+          ],
+          "state": "FL",
+          "country": "United States",
+          "zipCode": "33131",
+          "latitude": "25.765482",
+          "longitude": "-80.188406",
+          "geoLocation": "25.765482,-80.188406",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "09/02/2022"
+        }
+      ]
+    },
+    {
+      "firmId": 15650,
+      "firmName": "BOLTON GLOBAL CAPITAL",
+      "iaOnly": "N",
+      "registrationBeginDate": "10/28/2005",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE",
+      "bdSECNumber": "33222",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 3,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "1441 BRICKELL AVE",
+          "street2": "SUITE 1700",
+          "city": "MIAMI",
+          "cityAlias": [
+            "MIAMI"
+          ],
+          "state": "FL",
+          "country": "United States",
+          "zipCode": "33131",
+          "latitude": "25.765482",
+          "longitude": "-80.188406",
+          "geoLocation": "25.765482,-80.188406",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "10/13/2022"
+        },
+        {
+          "displayOrder": 4,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "Y",
+          "city": "Sarasota",
+          "state": "FL",
+          "country": "United States",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "12/01/2025"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "21409",
+      "firmId": 10,
+      "firmName": "ADVEST, INC.",
+      "city": "HARTFORD",
+      "state": "CT",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "1/16/1992",
+      "registrationEndDate": "11/10/2005",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "21409",
+      "firmId": 10,
+      "firmName": "ADVEST, INC.",
+      "city": "HARTFORD",
+      "state": "CT",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "8/9/1990",
+      "registrationEndDate": "10/5/1990",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "66962",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "68187",
+      "firmId": 129376,
+      "firmName": "DELTA GLOBAL ASSET MANAGEMENT",
+      "city": "BOLTON",
+      "state": "MA",
+      "country": "United States",
+      "registrationBeginDate": "11/8/2007",
+      "registrationEndDate": "11/13/2009",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "Y",
+  "iaDisclosureFlag": "Y",
+  "disclosures": [
+    {
+      "eventDate": "3/21/2017",
+      "disclosureType": "Regulatory",
+      "disclosureResolution": "Final",
+      "isIapdExcludedCCFlag": "N",
+      "isBcExcludedCCFlag": "N",
+      "bcCtgryType": 10,
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "DocketNumberFDA": "",
+        "DocketNumberAAO": "",
+        "Initiated By": "Florida Office of Financial Regulation",
+        "Allegations": "Conducted investment advisory business from offices within this state without the benefit of lawful registration.",
+        "Resolution": "Order",
+        "SanctionDetails": [
+          {
+            "Sanctions": "Cease and Desist"
+          },
+          {
+            "Sanctions": "Civil and Administrative Penalty(ies)/Fine(s)",
+            "SanctionDetails": [
+              {
+                "Amount": "$15,000.00"
+              }
+            ]
+          }
+        ],
+        "Broker Comment": [
+          "Mr. Dow relied on the Firm, Bolton Securities Corporation to maintain his registrations in good order. The Firm made a clerical reporting error and has agreed to pay the fine."
+        ]
+      }
+    }
+  ],
+  "iaDisclosures": [
+    {
+      "disclosureType": "Regulatory Event",
+      "disclosureCount": 1
+    }
+  ],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 2
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "11/7/2007",
+      "examScope": "IA"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "8/17/1990",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "8/8/1990",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 1,
+    "approvedFinraRegistrationCount": 1,
+    "approvedStateRegistrationCount": 27,
+    "approvedIAStateRegistrationCount": 3
+  },
+  "registeredStates": [
+    {
+      "state": "Alaska",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/16/2012"
+    },
+    {
+      "state": "California",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "Colorado",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "5/9/2006"
+    },
+    {
+      "state": "Connecticut",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "Florida",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "Florida",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "3/21/2017"
+    },
+    {
+      "state": "Illinois",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "Indiana",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "1/10/2018"
+    },
+    {
+      "state": "Maine",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "Maine",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "11/17/2009"
+    },
+    {
+      "state": "Maryland",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "5/5/2016"
+    },
+    {
+      "state": "Massachusetts",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "Michigan",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "12/22/2011"
+    },
+    {
+      "state": "Missouri",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/14/2008"
+    },
+    {
+      "state": "Nebraska",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "4/26/2018"
+    },
+    {
+      "state": "Nevada",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "New Hampshire",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "New Jersey",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "New Mexico",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "New York",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "North Carolina",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "Ohio",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "Oregon",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "Pennsylvania",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "Rhode Island",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "4/23/2018"
+    },
+    {
+      "state": "Tennessee",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "4/19/2023"
+    },
+    {
+      "state": "Texas",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "7/1/2013"
+    },
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED_RES",
+      "regDate": "4/28/2026"
+    },
+    {
+      "state": "Virginia",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    },
+    {
+      "state": "Washington",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "10/28/2005"
+    }
+  ],
+  "registeredSROs": [
+    {
+      "sro": "FINRA",
+      "status": "APPROVED",
+      "CategoriesList": [
+        "Full Registration/General Securities Representative"
+      ]
+    }
+  ],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "basicInformation": {
+    "individualId": 5932841,
+    "firstName": "KATHERINE",
+    "middleName": "MICHELLE",
+    "lastName": "AWBREY",
+    "otherNames": [
+      "KATHERINE M ABEL",
+      "KATHERINE M FRANKEL",
+      "KATHERINE MICHELLE FRANKEL"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "11/26/2012"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 106806,
+      "firmName": "MATTER FAMILY OFFICE",
+      "iaOnly": "Y",
+      "registrationBeginDate": "8/13/2019",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "65464",
+          "street1": "8001 FORSYTH BLVD",
+          "street2": "SUITE 950",
+          "city": "ST LOUIS",
+          "cityAlias": [
+            "CLAYTON",
+            "SAINT LOUIS"
+          ],
+          "state": "MO",
+          "country": "United States",
+          "zipCode": "63105",
+          "latitude": "38.645329",
+          "longitude": "-90.326056",
+          "geoLocation": "38.645329,-90.326056",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "07/29/2019"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "71129",
+      "iaSECNumberType": "801",
+      "firmId": 153070,
+      "firmName": "GREENWAY FAMILY OFFICE, LLC",
+      "city": "ST LOUIS",
+      "state": "MO",
+      "country": "United States",
+      "registrationBeginDate": "9/11/2014",
+      "registrationEndDate": "7/23/2019",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "14235",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "7221",
+      "firmId": 7691,
+      "firmName": "MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED",
+      "city": "LADUE",
+      "state": "MO",
+      "country": "United States",
+      "registrationBeginDate": "11/1/2012",
+      "registrationEndDate": "9/4/2014",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 1
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "10/30/2012",
+      "examScope": "BOTH"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "7/26/2012",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Missouri",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "8/13/2019"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

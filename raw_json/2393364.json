@@ -1,0 +1,391 @@
+{
+  "basicInformation": {
+    "individualId": 2393364,
+    "firstName": "GARRETT",
+    "middleName": "MITCHELL",
+    "lastName": "ALTON",
+    "otherNames": [
+      "GARRY  ALTON"
+    ],
+    "bcScope": "InActive",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "6/14/2008"
+  },
+  "currentEmployments": [],
+  "currentIAEmployments": [
+    {
+      "firmId": 129505,
+      "firmName": "CERTUITY, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "12/16/2025",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "62580",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "905 Bernina Avenue NE",
+          "street2": "Suite D",
+          "city": "Atlanta",
+          "cityAlias": [
+            "ATL",
+            "ATLANTA",
+            "LITTLE FIVE POINTS PSTL STR"
+          ],
+          "state": "GA",
+          "country": "United States",
+          "zipCode": "30307",
+          "latitude": "33.774352",
+          "longitude": "-84.336452",
+          "geoLocation": "33.774352,-84.336452",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "12/01/2025"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "35185",
+      "firmId": 17358,
+      "firmName": "M&T SECURITIES, INC.",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "4/21/2021",
+      "registrationEndDate": "6/9/2021",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "54739",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "13801",
+      "firmId": 231,
+      "firmName": "MBSC SECURITIES CORPORATION",
+      "city": "ATLANTA",
+      "state": "GA",
+      "registrationBeginDate": "8/5/2011",
+      "registrationEndDate": "2/6/2012",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "14235",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "7221",
+      "firmId": 7691,
+      "firmName": "MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED",
+      "city": "ATLANTA",
+      "state": "GA",
+      "registrationBeginDate": "11/12/2008",
+      "registrationEndDate": "12/14/2009",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "3908",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "1068",
+      "firmId": 2908,
+      "firmName": "NEUBERGER BERMAN, LLC",
+      "city": "ATLANTA",
+      "state": "GA",
+      "registrationBeginDate": "6/30/2006",
+      "registrationEndDate": "4/9/2008",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "11754",
+      "firmId": 791,
+      "firmName": "STERNE, AGEE & LEACH, INC.",
+      "city": "ATLANTA",
+      "state": "GA",
+      "registrationBeginDate": "10/14/2004",
+      "registrationEndDate": "7/5/2006",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "14172",
+      "firmId": 7556,
+      "firmName": "MORGAN STANLEY DW INC.",
+      "city": "PURCHASE",
+      "state": "NY",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "8/23/1999",
+      "registrationEndDate": "10/26/2004",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "3953",
+      "firmId": 1287,
+      "firmName": "J.C. BRADFORD & CO.",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "7/18/1997",
+      "registrationEndDate": "8/30/1999",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "27190",
+      "firmId": 723,
+      "firmName": "THE ROBINSON-HUMPHREY COMPANY INC.",
+      "city": "ATLANTA",
+      "state": "GA",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "6/9/1995",
+      "registrationEndDate": "7/28/1997",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "24369",
+      "firmId": 8112,
+      "firmName": "FIRST UNION BROKERAGE SERVICES, INC.",
+      "city": "CHARLOTTE",
+      "state": "NC",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "9/29/1993",
+      "registrationEndDate": "7/22/1995",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "107210",
+      "iaSECNumberType": "801",
+      "firmId": 282688,
+      "firmName": "PENNINGTON PARTNERS & CO., LLC",
+      "city": "BETHESDA",
+      "state": "MD",
+      "country": "United States",
+      "registrationBeginDate": "1/31/2025",
+      "registrationEndDate": "10/20/2025",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "bdSECNumber": "35185",
+      "firmId": 17358,
+      "firmName": "M&T SECURITIES, INC.",
+      "city": "ATLANATA",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "4/23/2021",
+      "registrationEndDate": "6/9/2021",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "54739",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "13801",
+      "firmId": 231,
+      "firmName": "MBSC SECURITIES CORPORATION",
+      "city": "ATLANTA",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "8/10/2011",
+      "registrationEndDate": "2/6/2012",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "14235",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "7221",
+      "firmId": 7691,
+      "firmName": "MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED",
+      "city": "ATLANTA",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "11/25/2008",
+      "registrationEndDate": "12/14/2009",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "56752",
+      "iaSECNumberType": "801",
+      "firmId": 109278,
+      "firmName": "GENSPRING FAMILY OFFICES, LLC",
+      "city": "ATLANTA",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "3/27/2008",
+      "registrationEndDate": "10/15/2008",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "3908",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "1068",
+      "firmId": 2908,
+      "firmName": "NEUBERGER BERMAN, LLC",
+      "city": "ATLANTA",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "7/7/2006",
+      "registrationEndDate": "4/9/2008",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "63297",
+      "iaSECNumberType": "801",
+      "firmId": 130888,
+      "firmName": "STERNE AGEE INVESTMENT ADVISORS, INC.",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "country": "United States",
+      "registrationBeginDate": "3/15/2005",
+      "registrationEndDate": "7/27/2006",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "bdSECNumber": "11754",
+      "firmId": 791,
+      "firmName": "STERNE AGEE & LEACH, INC. CAPITAL MANAGEMENT",
+      "city": "ATLANTA",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "10/14/2004",
+      "registrationEndDate": "7/5/2006",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "Y",
+      "bdSECNumber": "14172",
+      "firmId": 7556,
+      "firmName": "MORGAN STANLEY",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "United States",
+      "registrationBeginDate": "2/25/2003",
+      "registrationEndDate": "10/26/2004",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 2,
+    "productExamCount": 4
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "5/12/2003",
+      "examScope": "IA"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "9/29/1993",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [
+    {
+      "examCategory": "Series 10",
+      "examName": "General Securities Sales Supervisor - General Module Examination",
+      "examTakenDate": "4/5/2000",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 9",
+      "examName": "General Securities Sales Supervisor - Options Module Examination",
+      "examTakenDate": "4/5/2000",
+      "examScope": "BC"
+    }
+  ],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 7TO",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "4/21/2021",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "4/15/2021",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "7/28/1995",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 6",
+      "examName": "Investment Company Products/Variable Contracts Representative Examination",
+      "examTakenDate": "9/27/1993",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "Florida",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "1/12/2026"
+    },
+    {
+      "state": "Georgia",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "12/16/2025"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

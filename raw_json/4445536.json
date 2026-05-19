@@ -1,0 +1,262 @@
+{
+  "basicInformation": {
+    "individualId": 4445536,
+    "firstName": "BRIAN",
+    "middleName": "JAMES",
+    "lastName": "BOVA",
+    "otherNames": [],
+    "bcScope": "InActive",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "12/11/2001"
+  },
+  "currentEmployments": [],
+  "currentIAEmployments": [
+    {
+      "firmId": 301900,
+      "firmName": "INSCRIPTION FAMILY OFFICE, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "6/3/2019",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "116726",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "715348",
+          "street1": "2925 RICHMOND AVENUE",
+          "street2": "SUITE 425",
+          "city": "HOUSTON",
+          "cityAlias": [
+            "HOUSTON"
+          ],
+          "state": "TX",
+          "country": "United States",
+          "zipCode": "77098",
+          "latitude": "29.734388",
+          "longitude": "-95.415938",
+          "geoLocation": "29.734388,-95.415938",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "05/20/2019"
+        }
+      ]
+    },
+    {
+      "firmId": 291780,
+      "firmName": "INSCRIPTION CAPITAL, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "4/12/2018",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "112532",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "681996",
+          "street1": "2925 RICHMOND AVENUE",
+          "street2": "SUITE 425",
+          "city": "HOUSTON",
+          "cityAlias": [
+            "HOUSTON"
+          ],
+          "state": "TX",
+          "country": "United States",
+          "zipCode": "77098",
+          "latitude": "29.734388",
+          "longitude": "-95.415938",
+          "geoLocation": "29.734388,-95.415938",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "04/06/2018"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "69009",
+      "firmId": 159712,
+      "firmName": "CABOT LODGE SECURITIES LLC",
+      "city": "Houston",
+      "state": "TX",
+      "registrationBeginDate": "1/29/2021",
+      "registrationEndDate": "12/22/2023",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "46844",
+      "firmId": 35747,
+      "firmName": "PURSHE KAPLAN STERLING INVESTMENTS",
+      "city": "Houston",
+      "state": "TX",
+      "registrationBeginDate": "4/6/2018",
+      "registrationEndDate": "3/30/2021",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "7163",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "16267",
+      "firmId": 8174,
+      "firmName": "UBS FINANCIAL SERVICES INC.",
+      "city": "WEEHAWKEN",
+      "state": "NJ",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "9/9/2003",
+      "registrationEndDate": "4/17/2018",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "14235",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "7221",
+      "firmId": 7691,
+      "firmName": "MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "12/12/2001",
+      "registrationEndDate": "9/8/2003",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "7163",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "16267",
+      "firmId": 8174,
+      "firmName": "UBS FINANCIAL SERVICES INC.",
+      "city": "HOUSTON",
+      "state": "TX",
+      "country": "United States",
+      "registrationBeginDate": "2/1/2008",
+      "registrationEndDate": "4/17/2018",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 4
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "1/31/2008",
+      "examScope": "IA"
+    },
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "3/5/2002",
+      "examScope": "BOTH"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 99TO",
+      "examName": "Operations Professional Examination",
+      "examTakenDate": "1/2/2023",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 79TO",
+      "examName": "Investment Banking Registered Representative Examination",
+      "examTakenDate": "3/10/2021",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "12/11/2001",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 7
+  },
+  "registeredStates": [
+    {
+      "state": "Arizona",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "8/2/2023"
+    },
+    {
+      "state": "California",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "7/13/2023"
+    },
+    {
+      "state": "Louisiana",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "4/13/2018"
+    },
+    {
+      "state": "New York",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "7/13/2023"
+    },
+    {
+      "state": "Puerto Rico",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "7/13/2023"
+    },
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "4/12/2018"
+    },
+    {
+      "state": "Washington",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "7/13/2023"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

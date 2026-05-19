@@ -1,0 +1,578 @@
+{
+  "basicInformation": {
+    "individualId": 5157274,
+    "firstName": "GIL",
+    "middleName": "O",
+    "lastName": "AIKINS",
+    "otherNames": [
+      "GIL O. AIKINS",
+      "GIL OSEI AIKINS",
+      "GIL  AIKINS",
+      "GIL K OSEI",
+      "GIL KWESI OSEI"
+    ],
+    "bcScope": "Active",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "7/2/2010"
+  },
+  "currentEmployments": [
+    {
+      "firmId": 331511,
+      "firmName": "BLUE CAPAY VENTURES",
+      "iaOnly": "N",
+      "registrationBeginDate": "11/18/2025",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE",
+      "bdSECNumber": "71296",
+      "branchOfficeLocations": []
+    },
+    {
+      "firmId": 30761,
+      "firmName": "AUERBACH GRAYSON & COMPANY LLC",
+      "iaOnly": "N",
+      "registrationBeginDate": "4/4/2024",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE",
+      "bdSECNumber": "45136",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "203111",
+          "street1": "20W 55TH STREET",
+          "city": "NEW YORK",
+          "cityAlias": [
+            "MANHATTAN",
+            "NEW YORK",
+            "NEW YORK CITY",
+            "NY",
+            "NY CITY",
+            "NYC"
+          ],
+          "state": "NY",
+          "country": "United States",
+          "zipCode": "10019",
+          "latitude": "40.767192",
+          "longitude": "-73.99181",
+          "geoLocation": "40.767192,-73.99181",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "06/13/2024"
+        }
+      ]
+    },
+    {
+      "firmId": 318565,
+      "firmName": "BETHEL LANDING SECURITIES LLC",
+      "iaOnly": "N",
+      "registrationBeginDate": "5/17/2023",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE",
+      "bdSECNumber": "70881",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "779153",
+          "street1": "MILE COMMON",
+          "street2": "1ST FLOOR",
+          "city": "EASTON",
+          "cityAlias": [
+            "EASTON"
+          ],
+          "state": "CT",
+          "country": "UNITED STATES",
+          "zipCode": "06612",
+          "latitude": "41.276709",
+          "longitude": "-73.305702",
+          "geoLocation": "41.276709,-73.305702",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "02/17/2022"
+        }
+      ]
+    }
+  ],
+  "currentIAEmployments": [
+    {
+      "firmId": 331511,
+      "firmName": "BLUE CAPAY VENTURES",
+      "iaOnly": "N",
+      "registrationBeginDate": "11/18/2025",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE",
+      "bdSECNumber": "71296",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "575 Market Street",
+          "street2": "Suite 425",
+          "city": "San Francisco",
+          "cityAlias": [
+            "SAN FRANCISCO"
+          ],
+          "state": "CA",
+          "country": "United States",
+          "zipCode": "94105",
+          "latitude": "37.788543",
+          "longitude": "-122.393872",
+          "geoLocation": "37.788543,-122.393872",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "07/07/2025"
+        },
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "62 Post Rd West",
+          "street2": "1st Floor",
+          "city": "Westport",
+          "cityAlias": [
+            "SAUGATUCK",
+            "WESTPORT"
+          ],
+          "state": "CT",
+          "country": "United States",
+          "zipCode": "06880",
+          "latitude": "41.137996",
+          "longitude": "-73.34415",
+          "geoLocation": "41.137996,-73.34415",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "07/07/2025"
+        }
+      ]
+    },
+    {
+      "firmId": 288527,
+      "firmName": "FIVENCA ASSET MANAGEMENT",
+      "iaOnly": "Y",
+      "registrationBeginDate": "4/15/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "125721",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "1221 Brickell Ave",
+          "street2": "Suite 900",
+          "city": "Miami",
+          "cityAlias": [
+            "MIAMI"
+          ],
+          "state": "FL",
+          "country": "United States",
+          "zipCode": "33131",
+          "latitude": "25.765482",
+          "longitude": "-80.188406",
+          "geoLocation": "25.765482,-80.188406",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "10/02/2023"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "67194",
+      "firmId": 139148,
+      "firmName": "KEPLER CAPITAL MARKETS, INC.",
+      "city": "NEW YORK",
+      "state": "NY",
+      "registrationBeginDate": "12/1/2021",
+      "registrationEndDate": "2/26/2025",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "71205",
+      "firmId": 329157,
+      "firmName": "GALICIA CAPITAL US, LLC",
+      "city": "MIAMI",
+      "state": "FL",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "9/4/2024",
+      "registrationEndDate": "1/8/2025",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "71091",
+      "firmId": 325838,
+      "firmName": "MOONFARE SECURITIES USA",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "6/20/2024",
+      "registrationEndDate": "9/4/2024",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "70777",
+      "firmId": 315582,
+      "firmName": "LYNDHURST SECURITIES INC.",
+      "city": "BURBANK",
+      "state": "CA",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "4/20/2023",
+      "registrationEndDate": "7/19/2024",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "70412",
+      "firmId": 304587,
+      "firmName": "PUENTE SERVICIOS FINANCIEROS LLC",
+      "city": "MIAMI",
+      "state": "FL",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "4/17/2023",
+      "registrationEndDate": "9/28/2023",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "48481",
+      "firmId": 38964,
+      "firmName": "CREAND SECURITIES",
+      "city": "MIAMI",
+      "state": "FL",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "1/3/2023",
+      "registrationEndDate": "6/22/2023",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "68982",
+      "firmId": 159384,
+      "firmName": "BRASIL PLURAL SECURITIES LLC",
+      "city": "NEW YORK",
+      "state": "NY",
+      "registrationBeginDate": "8/23/2016",
+      "registrationEndDate": "6/2/2023",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "39592",
+      "firmId": 22732,
+      "firmName": "ENCLAVE CAPITAL LLC",
+      "city": "NEW YORK",
+      "state": "NY",
+      "registrationBeginDate": "3/15/2013",
+      "registrationEndDate": "9/15/2014",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "22651",
+      "firmId": 7654,
+      "firmName": "UBS SECURITIES LLC",
+      "city": "NEW YORK",
+      "state": "NY",
+      "registrationBeginDate": "8/30/2006",
+      "registrationEndDate": "4/18/2011",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "128023",
+      "iaSECNumberType": "801",
+      "firmId": 325214,
+      "firmName": "ALCALA MULTI FAMILY OFFICE",
+      "city": "Westport",
+      "state": "CT",
+      "country": "United States",
+      "registrationBeginDate": "2/28/2024",
+      "registrationEndDate": "12/31/2025",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "71777",
+      "iaSECNumberType": "801",
+      "firmId": 154124,
+      "firmName": "AUREANA CAPITAL MANAGEMENT, LLC",
+      "city": "Westport",
+      "state": "CT",
+      "country": "United States",
+      "registrationBeginDate": "7/20/2024",
+      "registrationEndDate": "8/31/2025",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "112927",
+      "iaSECNumberType": "801",
+      "firmId": 172932,
+      "firmName": "LAZARI CAPITAL MANAGEMENT, INC.",
+      "city": "EASTON",
+      "state": "CT",
+      "country": "United States",
+      "registrationBeginDate": "4/17/2023",
+      "registrationEndDate": "7/19/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "125747",
+      "iaSECNumberType": "801",
+      "firmId": 318958,
+      "firmName": "INNOVA ADVISORS",
+      "city": "Easton",
+      "state": "CT",
+      "country": "United States",
+      "registrationBeginDate": "1/13/2023",
+      "registrationEndDate": "11/16/2023",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "120169",
+      "iaSECNumberType": "801",
+      "firmId": 311609,
+      "firmName": "PUENTE ASESORAMIENTO DE INVERSIONES, LLC",
+      "city": "Easton",
+      "state": "CT",
+      "country": "United States",
+      "registrationBeginDate": "7/6/2023",
+      "registrationEndDate": "9/28/2023",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 3,
+    "principalExamCount": 4,
+    "productExamCount": 11
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "12/11/2022",
+      "examScope": "IA"
+    },
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "7/18/2017",
+      "examScope": "BOTH"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "9/12/2006",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [
+    {
+      "examCategory": "Series 53",
+      "examName": "Municipal Securities Principal Examination",
+      "examTakenDate": "1/11/2020",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 27",
+      "examName": "Financial and Operations Principal Examination",
+      "examTakenDate": "12/3/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 4",
+      "examName": "Registered Options Principal Examination",
+      "examTakenDate": "9/17/2017",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 24",
+      "examName": "General Securities Principal Examination",
+      "examTakenDate": "8/17/2013",
+      "examScope": "BC"
+    }
+  ],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 3",
+      "examName": "National Commodity Futures Examination",
+      "examTakenDate": "12/8/2025",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 31",
+      "examName": "Futures Managed Funds Examination",
+      "examTakenDate": "5/1/2025",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 16",
+      "examName": "NYSE Supervisory Analyst Examination ",
+      "examTakenDate": "3/1/2024",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 99TO",
+      "examName": "Operations Professional Examination",
+      "examTakenDate": "5/17/2023",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 82TO",
+      "examName": "Limited Representative-Private Securities Offerings",
+      "examTakenDate": "1/3/2023",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 57TO",
+      "examName": "Securities Trader Exam",
+      "examTakenDate": "1/2/2023",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 52TO",
+      "examName": "Municipal Securities Representative Examination",
+      "examTakenDate": "1/2/2023",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 79",
+      "examName": "Investment Banking Registered Representative Examination",
+      "examTakenDate": "11/10/2017",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 55",
+      "examName": "Limited Representative-Equity Trader Exam",
+      "examTakenDate": "10/26/2006",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "8/29/2006",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 1,
+    "approvedFinraRegistrationCount": 1,
+    "approvedStateRegistrationCount": 7,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "California",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "7/12/2024"
+    },
+    {
+      "state": "Connecticut",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "5/23/2023"
+    },
+    {
+      "state": "Florida",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "8/10/2023"
+    },
+    {
+      "state": "Florida",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "4/15/2024"
+    },
+    {
+      "state": "New York",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "5/23/2023"
+    },
+    {
+      "state": "Texas",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "8/29/2024"
+    },
+    {
+      "state": "Utah",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "7/1/2024"
+    },
+    {
+      "state": "Washington",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "7/24/2024"
+    }
+  ],
+  "registeredSROs": [
+    {
+      "sro": "FINRA",
+      "status": "APPROVED",
+      "CategoriesList": [
+        "Financial and Operations Principal",
+        "General Securities Principal",
+        "Full Registration/General Securities Representative",
+        "Investment Banking Representative",
+        "Limited Representative - Private Securities Offerings",
+        "Municipal Securities Principal",
+        "Municipal Securities Representative",
+        "Operations Professional",
+        "Private Securities Offerings Principal",
+        "Registered Options Principal",
+        "Research Principal",
+        "Securities Trader",
+        "Supervisory Analyst"
+      ]
+    }
+  ],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

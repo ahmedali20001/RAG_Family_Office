@@ -1,0 +1,323 @@
+{
+  "basicInformation": {
+    "individualId": 4017626,
+    "firstName": "TYLER",
+    "middleName": "GREGORY",
+    "lastName": "BEESON",
+    "otherNames": [],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "1/13/2002"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 315566,
+      "firmName": "WPA FAMILY OFFICE, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "8/30/2021",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "765688",
+          "street1": "12240 INWOOD ROAD",
+          "street2": "SUITE 230",
+          "city": "DALLAS",
+          "cityAlias": [
+            "DALLAS",
+            "FARMERS BRANCH",
+            "FARMERS BRNCH",
+            "NORTH BRANCH"
+          ],
+          "state": "TX",
+          "country": "United States",
+          "zipCode": "75244",
+          "latitude": "32.930328",
+          "longitude": "-96.835261",
+          "geoLocation": "32.930328,-96.835261",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "08/30/2021"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "108664",
+      "iaSECNumberType": "801",
+      "firmId": 283843,
+      "firmName": "WESTSHORE WEALTH",
+      "city": "Dallas",
+      "state": "TX",
+      "country": "United States",
+      "registrationBeginDate": "1/2/2018",
+      "registrationEndDate": "9/13/2021",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "27090",
+      "iaSECNumberType": "801",
+      "firmId": 104953,
+      "firmName": "RGT WEALTH ADVISORS",
+      "city": "DALLAS",
+      "state": "TX",
+      "country": "United States",
+      "registrationBeginDate": "9/28/2015",
+      "registrationEndDate": "11/30/2017",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "14235",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "7221",
+      "firmId": 7691,
+      "firmName": "MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED",
+      "city": "DALLAS",
+      "state": "TX",
+      "country": "United States",
+      "registrationBeginDate": "10/23/2009",
+      "registrationEndDate": "9/17/2015",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "bdSECNumber": "33805",
+      "firmId": 16361,
+      "firmName": "BANC OF AMERICA INVESTMENT SERVICES, INC.",
+      "city": "DALLAS",
+      "state": "TX",
+      "country": "United States",
+      "registrationBeginDate": "8/15/2003",
+      "registrationEndDate": "10/23/2009",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "Y",
+      "bdSECNumber": "42263",
+      "firmId": 26091,
+      "firmName": "BANC OF AMERICA SECURITIES LLC",
+      "city": "SAN FRANCISCO",
+      "state": "CA",
+      "country": "United States",
+      "registrationBeginDate": "12/3/2001",
+      "registrationEndDate": "8/20/2003",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "disclosureFlag": "Y",
+  "iaDisclosureFlag": "Y",
+  "disclosures": [
+    {
+      "eventDate": "6/9/2009",
+      "disclosureType": "Customer Dispute",
+      "disclosureResolution": "Settled",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "Allegations": "MISREPRESENTATION",
+        "Settlement Amount": "$1,675,000.00",
+        "DisplayAAOLinkIfExists": "N",
+        "arbitrationClaimFiledDetail": "",
+        "arbitrationDocketNumber": "",
+        "Broker Comment": [
+          "THIS MATTER INVOLVES THE SALE OF AUCTION RATE SECURITIES (ARS).  THE TRANSACTION(S) AT ISSUE TOOK PLACE BEFORE MID-FEBRUARY 2008, WHEN THE ARS MARKET SUFFERED WIDESPREAD AUCTION FAILURES AND ILLIQUIDITY.  THE FINANCIAL ADVISOR DID NOT CAUSE, CONTRIBUTE OR HAVE ANY CONTROL WHATSOEVER OVER THESE MARKET EVENTS.  THE FIRM REACHED AGREEMENT WITH CERTAIN OF ITS REGULATORS, PURSUANT TO WHICH IT REPURCHASED ARS FOR THEIR FULL PAR VALUE FROM CERTAIN CLIENTS, INCLUDING THE INSTANT CLIENT, WHERE THEY COMPLAINED OR NOT.  THE FINANCIAL ADVISOR WAS NOT A PARTY TO THAT AGREEMENT, DID NOT MAKE ANY PAYMENT TO THE CLIENT, AND WAS NOT ASKED TO AND DID NOT CONTRIBUTE TO THE REPURCHASE AMOUNT.  THE SETTLEMENT AMOUNT IN ITEM 11 ABOVE REFLECTS THE PAR VALUE OF THE REPURCHASED ARS, AS REQUIRED BY FINRA REGULATORY NOTICE 09-12."
+        ]
+      }
+    },
+    {
+      "eventDate": "6/9/2009",
+      "disclosureType": "Customer Dispute",
+      "disclosureResolution": "Settled",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "Allegations": "SUITABILITY",
+        "Settlement Amount": "$8,150,000.00",
+        "DisplayAAOLinkIfExists": "N",
+        "arbitrationClaimFiledDetail": "",
+        "arbitrationDocketNumber": "",
+        "Broker Comment": [
+          "THIS MATTER INVOLVES THE SALE OF AUCTION RATE SECURITIES (ARS).  THE TRANSACTION(S) AT ISSUE TOOK PLACE BEFORE MID-FEBRUARY 2008, WHEN THE ARS MARKET SUFFERED WIDESPREAD AUCTION FAILURES AND ILLIQUIDITY.  THE FINANCIAL ADVISOR DID NOT CAUSE, CONTRIBUTE OR HAVE ANY CONTROL WHATSOEVER OVER THESE MARKET EVENTS.  THE FIRM REACHED AGREEMENT WITH CERTAIN OF ITS REGULATORS, PURSUANT TO WHICH IT REPURCHASED ARS FOR THEIR FULL PAR VALUE FROM CERTAIN CLIENTS, INCLUDING THE INSTANT CLIENT, WHERE THEY COMPLAINED OR NOT.  THE FINANCIAL ADVISOR WAS NOT A PARTY TO THAT AGREEMENT, DID NOT MAKE ANY PAYMENT TO THE CLIENT, AND WAS NOT ASKED TO AND DID NOT CONTRIBUTE TO THE REPURCHASE AMOUNT.  THE SETTLEMENT AMOUNT IN ITEM 11 ABOVE REFLECTS THE PAR VALUE OF THE REPURCHASED ARS, AS REQUIRED BY FINRA REGULATORY NOTICE 09-12."
+        ]
+      }
+    },
+    {
+      "eventDate": "6/9/2009",
+      "disclosureType": "Customer Dispute",
+      "disclosureResolution": "Settled",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "Allegations": "MISREPRESENTATION",
+        "Settlement Amount": "$1,100,000.00",
+        "DisplayAAOLinkIfExists": "N",
+        "arbitrationClaimFiledDetail": "",
+        "arbitrationDocketNumber": "",
+        "Broker Comment": [
+          "THIS MATTER INVOLVES THE SALE OF AUCTION RATE SECURITIES (ARS).  THE TRANSACTION(S) AT ISSUE TOOK PLACE BEFORE MID-FEBRUARY 2008, WHEN THE ARS MARKET SUFFERED WIDESPREAD AUCTION FAILURES AND ILLIQUIDITY.  THE FINANCIAL ADVISOR DID NOT CAUSE, CONTRIBUTE OR HAVE ANY CONTROL WHATSOEVER OVER THESE MARKET EVENTS.  THE FIRM REACHED AGREEMENT WITH CERTAIN OF ITS REGULATORS, PURSUANT TO WHICH IT REPURCHASED ARS FOR THEIR FULL PAR VALUE FROM CERTAIN CLIENTS, INCLUDING THE INSTANT CLIENT, WHERE THEY COMPLAINED OR NOT.  THE FINANCIAL ADVISOR WAS NOT A PARTY TO THAT AGREEMENT, DID NOT MAKE ANY PAYMENT TO THE CLIENT, AND WAS NOT ASKED TO AND DID NOT CONTRIBUTE TO THE REPURCHASE AMOUNT.  THE SETTLEMENT AMOUNT IN ITEM 11 ABOVE REFLECTS THE PAR VALUE OF THE REPURCHASED ARS, AS REQUIRED BY FINRA REGULATORY NOTICE 09-12."
+        ]
+      }
+    },
+    {
+      "eventDate": "6/9/2009",
+      "disclosureType": "Customer Dispute",
+      "disclosureResolution": "Settled",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "Allegations": "MISREPRESENTATION",
+        "Settlement Amount": "$7,150,000.00",
+        "DisplayAAOLinkIfExists": "N",
+        "arbitrationClaimFiledDetail": "",
+        "arbitrationDocketNumber": "",
+        "Broker Comment": [
+          "THIS MATTER INVOLVES THE SALE OF AUCTION RATE SECURITIES (ARS).  THE TRANSACTION(S) AT ISSUE TOOK PLACE BEFORE MID-FEBRUARY 2008, WHEN THE ARS MARKET SUFFERED WIDESPREAD AUCTION FAILURES AND ILLIQUIDITY.  THE FINANCIAL ADVISOR DID NOT CAUSE, CONTRIBUTE OR HAVE ANY CONTROL WHATSOEVER OVER THESE MARKET EVENTS.  THE FIRM REACHED AGREEMENT WITH CERTAIN OF ITS REGULATORS, PURSUANT TO WHICH IT REPURCHASED ARS FOR THEIR FULL PAR VALUE FROM CERTAIN CLIENTS, INCLUDING THE INSTANT CLIENT, WHERE THEY COMPLAINED OR NOT.  THE FINANCIAL ADVISOR WAS NOT A PARTY TO THAT AGREEMENT, DID NOT MAKE ANY PAYMENT TO THE CLIENT, AND WAS NOT ASKED TO AND DID NOT CONTRIBUTE TO THE REPURCHASE AMOUNT.  THE SETTLEMENT AMOUNT IN ITEM 11 ABOVE REFLECTS THE PAR VALUE OF THE REPURCHASED ARS, AS REQUIRED BY FINRA REGULATORY NOTICE 09-12."
+        ]
+      }
+    },
+    {
+      "eventDate": "6/9/2009",
+      "disclosureType": "Customer Dispute",
+      "disclosureResolution": "Settled",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "Allegations": "MISREPRESENTATION",
+        "Settlement Amount": "$6,150,000.00",
+        "DisplayAAOLinkIfExists": "N",
+        "arbitrationClaimFiledDetail": "",
+        "arbitrationDocketNumber": "",
+        "Broker Comment": [
+          "THIS MATTER INVOLVES THE SALE OF AUCTION RATE SECURITIES (ARS).  THE TRANSACTION(S) AT ISSUE TOOK PLACE BEFORE MID-FEBRUARY 2008, WHEN THE ARS MARKET SUFFERED WIDESPREAD AUCTION FAILURES AND ILLIQUIDITY.  THE FINANCIAL ADVISOR DID NOT CAUSE, CONTRIBUTE OR HAVE ANY CONTROL WHATSOEVER OVER THESE MARKET EVENTS.  THE FIRM REACHED AGREEMENT WITH CERTAIN OF ITS REGULATORS, PURSUANT TO WHICH IT REPURCHASED ARS FOR THEIR FULL PAR VALUE FROM CERTAIN CLIENTS, INCLUDING THE INSTANT CLIENT, WHERE THEY COMPLAINED OR NOT.  THE FINANCIAL ADVISOR WAS NOT A PARTY TO THAT AGREEMENT, DID NOT MAKE ANY PAYMENT TO THE CLIENT, AND WAS NOT ASKED TO AND DID NOT CONTRIBUTE TO THE REPURCHASE AMOUNT.  THE SETTLEMENT AMOUNT IN ITEM 11 ABOVE REFLECTS THE PAR VALUE OF THE REPURCHASED ARS, AS REQUIRED BY FINRA REGULATORY NOTICE 09-12."
+        ]
+      }
+    },
+    {
+      "eventDate": "6/9/2009",
+      "disclosureType": "Customer Dispute",
+      "disclosureResolution": "Settled",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "Allegations": "THIS VERBAL COMPLAINT AROSE OUT OF THE SALE OF AN AUCTION RATE SECURITY (ARS) THAT WAS MADE PRIOR TO THE UNPRECEDENTED ILLIQUIDITY IN THE ARS MARKET THAT OCCURRED IN FEBRUARY 2008.",
+        "Settlement Amount": "$16,125,000.00",
+        "DisplayAAOLinkIfExists": "N",
+        "arbitrationClaimFiledDetail": "",
+        "arbitrationDocketNumber": "",
+        "Broker Comment": [
+          "THIS MATTER INVOLVES THE SALE OF AUCTION RATE SECURITIES (ARS).  THE TRANSACTION(S) AT ISSUE TOOK PLACE BEFORE MID-FEBRUARY 2008, WHEN THE ARS MARKET SUFFERED WIDESPREAD AUCTION FAILURES AND ILLIQUIDITY.  THE FINANCIAL ADVISOR DID NOT CAUSE, CONTRIBUTE OR HAVE ANY CONTROL WHATSOEVER OVER THESE MARKET EVENTS.  THE FIRM REACHED AGREEMENT WITH CERTAIN OF ITS REGULATORS, PURSUANT TO WHICH IT REPURCHASED ARS FOR THEIR FULL PAR VALUE FROM CERTAIN CLIENTS, INCLUDING THE INSTANT CLIENT, WHERE THEY COMPLAINED OR NOT.  THE FINANCIAL ADVISOR WAS NOT A PARTY TO THAT AGREEMENT, DID NOT MAKE ANY PAYMENT TO THE CLIENT, AND WAS NOT ASKED TO AND DID NOT CONTRIBUTE TO THE REPURCHASE AMOUNT.  THE SETTLEMENT AMOUNT IN ITEM 11 ABOVE REFLECTS THE PAR VALUE OF THE REPURCHASED ARS, AS REQUIRED BY FINRA REGULATORY NOTICE 09-12."
+        ]
+      }
+    },
+    {
+      "eventDate": "6/9/2009",
+      "disclosureType": "Customer Dispute",
+      "disclosureResolution": "Settled",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "Allegations": "THIS VERBAL COMPLAINT AROSE OUT OF THE SALE OF AN AUCTION RATE SECURITY (ARS) THAT WAS MADE PRIOR TO THE UNPRECEDENTED ILLIQUIDITY IN THE ARS MARKET THAT OCCURRED IN FEBRUARY 2008.",
+        "Settlement Amount": "$400,000.00",
+        "DisplayAAOLinkIfExists": "N",
+        "arbitrationClaimFiledDetail": "",
+        "arbitrationDocketNumber": "",
+        "Broker Comment": [
+          "THIS MATTER INVOLVES THE SALE OF AUCTION RATE SECURITIES (ARS).  THE TRANSACTION(S) AT ISSUE TOOK PLACE BEFORE MID-FEBRUARY 2008, WHEN THE ARS MARKET SUFFERED WIDESPREAD AUCTION FAILURES AND ILLIQUIDITY.  THE FINANCIAL ADVISOR DID NOT CAUSE, CONTRIBUTE OR HAVE ANY CONTROL WHATSOEVER OVER THESE MARKET EVENTS.  THE FIRM REACHED AGREEMENT WITH CERTAIN OF ITS REGULATORS, PURSUANT TO WHICH IT REPURCHASED ARS FOR THEIR FULL PAR VALUE FROM CERTAIN CLIENTS, INCLUDING THE INSTANT CLIENT, WHERE THEY COMPLAINED OR NOT.  THE FINANCIAL ADVISOR WAS NOT A PARTY TO THAT AGREEMENT, DID NOT MAKE ANY PAYMENT TO THE CLIENT, AND WAS NOT ASKED TO AND DID NOT CONTRIBUTE TO THE REPURCHASE AMOUNT.  THE SETTLEMENT AMOUNT IN ITEM 11 ABOVE REFLECTS THE PAR VALUE OF THE REPURCHASED ARS, AS REQUIRED BY FINRA REGULATORY NOTICE 09-12."
+        ]
+      }
+    },
+    {
+      "eventDate": "8/5/2008",
+      "disclosureType": "Customer Dispute",
+      "disclosureResolution": "Settled",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "Allegations": "CUSTOMER ALLEGES THAT THE FINANCIAL ADVISOR MISREPRESENTED THE FEATURES OF AUCTION RATE SECURITIES PURCHASED IN JANUARY 2007.",
+        "Settlement Amount": "$575,000.00",
+        "DisplayAAOLinkIfExists": "N",
+        "arbitrationClaimFiledDetail": "",
+        "arbitrationDocketNumber": "",
+        "Broker Comment": [
+          "THIS MATTER INVOLVES THE SALE OF AUCTION RATE SECURITIES (ARS).  THE TRANSACTION(S) AT ISSUE TOOK PLACE BEFORE MID-FEBRUARY 2008, WHEN THE ARS MARKET SUFFERED WIDESPREAD AUCTION FAILURES AND ILLIQUIDITY.  THE FINANCIAL ADVISOR DID NOT CAUSE, CONTRIBUTE OR HAVE ANY CONTROL WHATSOEVER OVER THESE MARKET EVENTS.  THE FIRM REACHED AGREEMENT WITH CERTAIN OF ITS REGULATORS, PURSUANT TO WHICH IT REPURCHASED ARS FOR THEIR FULL PAR VALUE FROM CERTAIN CLIENTS, INCLUDING THE INSTANT CLIENT, WHERE THEY COMPLAINED OR NOT.  THE FINANCIAL ADVISOR WAS NOT A PARTY TO THAT AGREEMENT, DID NOT MAKE ANY PAYMENT TO THE CLIENT, AND WAS NOT ASKED TO AND DID NOT CONTRIBUTE TO THE REPURCHASE AMOUNT.  THE SETTLEMENT AMOUNT IN ITEM 11 ABOVE REFLECTS THE PAR VALUE OF THE REPURCHASED ARS, AS REQUIRED BY FINRA REGULATORY NOTICE 09-12.CUSTOMER WITHDREW COMPLAINT ON SEPTEMBER 9, 2008."
+        ]
+      }
+    }
+  ],
+  "iaDisclosures": [
+    {
+      "disclosureType": "Customer Dispute",
+      "disclosureCount": 8
+    }
+  ],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 2
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "11/13/2001",
+      "examScope": "BOTH"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "12/7/1999",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "9/17/2015",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "11/17/1999",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "8/30/2021"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

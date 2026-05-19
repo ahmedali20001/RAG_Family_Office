@@ -1,0 +1,143 @@
+{
+  "basicInformation": {
+    "individualId": 2301418,
+    "firstName": "MARK",
+    "middleName": "CHRISTOPHER",
+    "lastName": "BLAKE",
+    "otherNames": [
+      "MARK C BLAKE"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "4/3/2000"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 166010,
+      "firmName": "MERIWETHER FAMILY OFFICE, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "3/5/2014",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "2001 NW 19TH, #103B",
+          "city": "PORTLAND",
+          "cityAlias": [
+            "PORTLAND"
+          ],
+          "state": "OR",
+          "country": "United States",
+          "zipCode": "97209",
+          "latitude": "45.533458",
+          "longitude": "-122.681501",
+          "geoLocation": "45.533458,-122.681501",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "02/27/2014"
+        },
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "80 E Sir Francis Drake Blvd. #3H",
+          "city": "Larkspu",
+          "cityAlias": [
+            "LARKSPUR"
+          ],
+          "state": "CA",
+          "country": "United States",
+          "zipCode": "94939",
+          "latitude": "37.937842",
+          "longitude": "-122.526643",
+          "geoLocation": "37.937842,-122.526643",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "08/08/2016"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "37967",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "37180",
+      "firmId": 19616,
+      "firmName": "WELLS FARGO ADVISORS, LLC",
+      "city": "SAN FRANCISCO",
+      "state": "CA",
+      "country": "United States",
+      "registrationBeginDate": "3/28/2000",
+      "registrationEndDate": "2/25/2014",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 1
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "5/27/1999",
+      "examScope": "IA"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "1/14/1993",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "1/4/1993",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "California",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "10/31/2014"
+    },
+    {
+      "state": "Oregon",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "3/5/2014"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

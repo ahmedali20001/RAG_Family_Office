@@ -1,0 +1,118 @@
+{
+  "basicInformation": {
+    "individualId": 6122523,
+    "firstName": "DYLAN",
+    "middleName": "CHAMBERLAINE",
+    "lastName": "BRIX",
+    "otherNames": [],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "10/19/2015"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 107141,
+      "firmName": "BOSTON FAMILY OFFICE LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "10/6/2020",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "59311",
+          "street1": "20 CUSTOM HOUSE STREET",
+          "street2": "SUITE 700",
+          "city": "BOSTON",
+          "cityAlias": [
+            "BOSTON"
+          ],
+          "state": "MA",
+          "country": "United States",
+          "zipCode": "02110",
+          "latitude": "42.357176",
+          "longitude": "-71.053614",
+          "geoLocation": "42.357176,-71.053614",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "09/01/2020"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "64812",
+      "iaSECNumberType": "801",
+      "firmId": 137342,
+      "firmName": "REYNDERS, MCVEIGH CAPITAL MANAGEMENT, LLC",
+      "city": "BOSTON",
+      "state": "MA",
+      "country": "United States",
+      "registrationBeginDate": "7/18/2017",
+      "registrationEndDate": "9/10/2020",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "60462",
+      "iaSECNumberType": "801",
+      "firmId": 114021,
+      "firmName": "ALGONQUIN ADVISORS LLC",
+      "city": "GREENWICH",
+      "state": "CT",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "11/27/2012",
+      "registrationEndDate": "9/19/2014",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "11/26/2012",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Massachusetts",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "10/6/2020"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

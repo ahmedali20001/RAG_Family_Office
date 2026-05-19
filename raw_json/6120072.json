@@ -1,0 +1,149 @@
+{
+  "basicInformation": {
+    "individualId": 6120072,
+    "firstName": "BRENNON",
+    "middleName": "STERLING",
+    "lastName": "BOWEN",
+    "otherNames": [],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "5/11/2015"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 144316,
+      "firmName": "PURE FINANCIAL ADVISORS, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "11/12/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "3300 N. Triumph Blvd, Suite 200",
+          "city": "Lehi",
+          "cityAlias": [
+            "CEDAR PASS",
+            "EAGLE MOUNTAIN",
+            "EAGLE MTN",
+            "LEHI",
+            "SARATOGA",
+            "SARATOGA SPGS",
+            "SARATOGA SPRINGS"
+          ],
+          "state": "UT",
+          "country": "United States",
+          "zipCode": "84043",
+          "latitude": "40.402096",
+          "longitude": "-111.878044",
+          "geoLocation": "40.402096,-111.878044",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "11/06/2024"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "114491",
+      "iaSECNumberType": "801",
+      "firmId": 286419,
+      "firmName": "THE PROFESSIONAL FINANCIAL COMPANY LLC",
+      "city": "OREM",
+      "state": "UT",
+      "country": "United States",
+      "registrationBeginDate": "12/13/2018",
+      "registrationEndDate": "12/12/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "78190",
+      "iaSECNumberType": "801",
+      "firmId": 141504,
+      "firmName": "ARISTA WEALTH MANAGEMENT, LLC",
+      "city": "Provo",
+      "state": "UT",
+      "country": "United States",
+      "registrationBeginDate": "1/18/2017",
+      "registrationEndDate": "12/4/2018",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "80633",
+      "iaSECNumberType": "801",
+      "firmId": 151762,
+      "firmName": "ANDINA FAMILY OFFICES",
+      "city": "LEHI",
+      "state": "UT",
+      "country": "United States",
+      "registrationBeginDate": "5/4/2015",
+      "registrationEndDate": "3/24/2017",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 1
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "5/1/2015",
+      "examScope": "IA"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "12/10/2012",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "12/3/2012",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Utah",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "11/12/2024"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

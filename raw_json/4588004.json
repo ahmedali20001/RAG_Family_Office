@@ -1,0 +1,160 @@
+{
+  "basicInformation": {
+    "individualId": 4588004,
+    "firstName": "COREY",
+    "middleName": "MARSHALL",
+    "lastName": "BIRD",
+    "otherNames": [
+      "COREY  BIRD"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "11/22/2008"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 317615,
+      "firmName": "FORTITUDE FAMILY OFFICE",
+      "iaOnly": "Y",
+      "registrationBeginDate": "8/27/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "774686",
+          "street1": "7500 N DOBSON RD",
+          "street2": "SUITE 151",
+          "city": "SCOTTSDALE",
+          "cityAlias": [
+            "SCOTTSDALE"
+          ],
+          "state": "AZ",
+          "country": "United States",
+          "zipCode": "85256",
+          "latitude": "33.503825",
+          "longitude": "-111.784104",
+          "geoLocation": "33.503825,-111.784104",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "02/01/2025"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "69271",
+      "iaSECNumberType": "801",
+      "firmId": 147363,
+      "firmName": "MERCER GLOBAL ADVISORS INC.",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "country": "United States",
+      "registrationBeginDate": "2/4/2021",
+      "registrationEndDate": "2/2/2023",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "31188",
+      "iaSECNumberType": "801",
+      "firmId": 105766,
+      "firmName": "ROWLAND CARMICHAEL ADVISORS INC",
+      "city": "SCOTTSDALE",
+      "state": "AZ",
+      "country": "United States",
+      "registrationBeginDate": "12/12/2007",
+      "registrationEndDate": "3/30/2021",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "108049",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "15204",
+      "firmId": 665,
+      "firmName": "PIPER JAFFRAY & CO.",
+      "city": "KENNEWICK",
+      "state": "WA",
+      "country": "United States",
+      "registrationBeginDate": "1/6/2006",
+      "registrationEndDate": "8/17/2006",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 2
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "1/5/2006",
+      "examScope": "BOTH"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "1/3/2003",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "12/23/2005",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 6",
+      "examName": "Investment Company Products/Variable Contracts Representative Examination",
+      "examTakenDate": "3/1/2003",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "Arizona",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "8/29/2024"
+    },
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "8/27/2024"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

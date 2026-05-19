@@ -1,0 +1,97 @@
+{
+  "basicInformation": {
+    "individualId": 6225467,
+    "firstName": "EMILY",
+    "middleName": "ELIZABETH",
+    "lastName": "BOLICK",
+    "otherNames": [
+      "EMILY ELIZABETH MANN"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "7/22/2013"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 159440,
+      "firmName": "TFO FAMILY OFFICE PARTNERS",
+      "iaOnly": "Y",
+      "registrationBeginDate": "7/23/2013",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "485568",
+          "street1": "5060 NORTH 40TH STREET",
+          "street2": "SUITE 200",
+          "city": "PHOENIX",
+          "cityAlias": [
+            "PHOENIX"
+          ],
+          "state": "AZ",
+          "country": "United States",
+          "zipCode": "85018",
+          "latitude": "33.502424",
+          "longitude": "-111.97815",
+          "geoLocation": "33.502424,-111.97815",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "12/19/2011"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "7/1/2013",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "Arizona",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "7/23/2013"
+    },
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "3/5/2024"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

@@ -1,0 +1,344 @@
+{
+  "basicInformation": {
+    "individualId": 1799341,
+    "firstName": "PAUL",
+    "middleName": "DONALD",
+    "lastName": "BOWERS",
+    "otherNames": [
+      "PAUL  BOWERS"
+    ],
+    "bcScope": "InActive",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "10/15/1997"
+  },
+  "currentEmployments": [],
+  "currentIAEmployments": [
+    {
+      "firmId": 148802,
+      "firmName": "NORTH CAPITAL",
+      "iaOnly": "Y",
+      "registrationBeginDate": "1/28/2021",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "110598",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "Y",
+          "city": "Saint Simons Island",
+          "state": "GA",
+          "country": "United States",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "12/07/2018"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "68648",
+      "firmId": 154559,
+      "firmName": "NORTH CAPITAL PRIVATE SECURITIES CORPORATION",
+      "city": "SALT LAKE CITY",
+      "state": "UT",
+      "country": "USA",
+      "registrationBeginDate": "1/23/2019",
+      "registrationEndDate": "12/22/2021",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "69729",
+      "firmId": 282710,
+      "firmName": "ARKADIOS CAPITAL",
+      "city": "Atlanta",
+      "state": "GA",
+      "registrationBeginDate": "12/6/2016",
+      "registrationEndDate": "8/30/2017",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "14235",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "7221",
+      "firmId": 7691,
+      "firmName": "MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED",
+      "city": "SAINT SIMONS",
+      "state": "GA",
+      "registrationBeginDate": "10/4/2012",
+      "registrationEndDate": "2/3/2015",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "50510",
+      "firmId": 44018,
+      "firmName": "G-2 TRADING,LLC",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "11/8/2011",
+      "registrationEndDate": "9/11/2012",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "68182",
+      "firmId": 149672,
+      "firmName": "KOYOTE TRADING LLC",
+      "city": "NEW YORK",
+      "state": "NY",
+      "registrationBeginDate": "11/15/2010",
+      "registrationEndDate": "10/31/2011",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "887",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "4077",
+      "firmId": 249,
+      "firmName": "OPPENHEIMER & CO. INC.",
+      "city": "NEW YORK",
+      "state": "NY",
+      "registrationBeginDate": "3/1/2010",
+      "registrationEndDate": "11/12/2010",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "65473",
+      "firmId": 122225,
+      "firmName": "BTIG, LLC",
+      "city": "NEW YORK",
+      "state": "NY",
+      "registrationBeginDate": "10/13/2008",
+      "registrationEndDate": "1/23/2009",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "39729",
+      "firmId": 22455,
+      "firmName": "ACCESS SECURITIES, INC.",
+      "city": "NEW CANAAN",
+      "state": "CT",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "1/8/2008",
+      "registrationEndDate": "5/27/2008",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "12324",
+      "firmId": 7506,
+      "firmName": "LEHMAN BROTHERS INC.",
+      "city": "NEW YORK",
+      "state": "NY",
+      "registrationBeginDate": "4/28/2004",
+      "registrationEndDate": "1/7/2008",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "2595",
+      "firmId": 2528,
+      "firmName": "LAZARD FRERES & CO. LLC",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "4/25/2003",
+      "registrationEndDate": "3/4/2004",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "33753",
+      "firmId": 16362,
+      "firmName": "FIRST NEW YORK SECURITIES L.L.C.",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "7/2/2001",
+      "registrationEndDate": "4/4/2002",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "3702",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "35008",
+      "firmId": 79,
+      "firmName": "BEAR, STEARNS & CO. INC.",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "12/12/1996",
+      "registrationEndDate": "5/3/2001",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "3702",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "35008",
+      "firmId": 79,
+      "firmName": "BEAR, STEARNS & CO. INC.",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "9/20/1988",
+      "registrationEndDate": "2/20/1992",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "110598",
+      "iaSECNumberType": "801",
+      "firmId": 148802,
+      "firmName": "NORTH CAPITAL",
+      "city": "Saint Simons Island",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "1/24/2019",
+      "registrationEndDate": "12/31/2020",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "110303",
+      "iaSECNumberType": "801",
+      "firmId": 288134,
+      "firmName": "ADI DASSLER INTERNATIONAL FAMILY OFFICE USA LIMITED PARTNERSHIP",
+      "city": "Saint Sinons Island",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "3/5/2018",
+      "registrationEndDate": "12/3/2018",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "70298",
+      "iaSECNumberType": "801",
+      "firmId": 150419,
+      "firmName": "ACG WEALTH, INC.",
+      "city": "ATLANTA",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "4/18/2016",
+      "registrationEndDate": "3/20/2018",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "14235",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "7221",
+      "firmId": 7691,
+      "firmName": "MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED",
+      "city": "SAINT SIMONS",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "11/20/2012",
+      "registrationEndDate": "2/3/2015",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 3
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "11/15/2012",
+      "examScope": "IA"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "4/23/2010",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 7TO",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "12/18/2022",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "8/30/2017",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "9/17/1988",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "Georgia",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "1/28/2021"
+    },
+    {
+      "state": "Utah",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "1/28/2021"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

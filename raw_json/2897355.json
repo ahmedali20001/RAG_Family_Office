@@ -1,0 +1,246 @@
+{
+  "basicInformation": {
+    "individualId": 2897355,
+    "firstName": "BRIAN",
+    "middleName": "LOUIS",
+    "lastName": "BOLL",
+    "otherNames": [],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "10/30/2005"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 323930,
+      "firmName": "HERITAGE FAMILY OFFICES, LLP",
+      "iaOnly": "Y",
+      "registrationBeginDate": "6/12/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "798782",
+          "street1": "9841 E BELL RD",
+          "street2": "SUITE 110",
+          "city": "SCOTTSDALE",
+          "cityAlias": [
+            "SCOTTSDALE"
+          ],
+          "state": "AZ",
+          "country": "United States",
+          "zipCode": "85260",
+          "latitude": "33.610962",
+          "longitude": "-111.890114",
+          "geoLocation": "33.610962,-111.890114",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "05/30/2024"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "110550",
+      "iaSECNumberType": "801",
+      "firmId": 287909,
+      "firmName": "HERITAGE WEALTH MANAGEMENT, LLC",
+      "city": "PHOENIX",
+      "state": "AZ",
+      "country": "United States",
+      "registrationBeginDate": "7/7/2017",
+      "registrationEndDate": "3/5/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "106598",
+      "iaSECNumberType": "801",
+      "firmId": 158107,
+      "firmName": "HERITAGE WEALTH MANAGEMENT, LLC",
+      "city": "PHOENIX",
+      "state": "AZ",
+      "country": "United States",
+      "registrationBeginDate": "6/29/2016",
+      "registrationEndDate": "8/18/2017",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "37967",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "37180",
+      "firmId": 19616,
+      "firmName": "WELLS FARGO ADVISORS, LLC",
+      "city": "MESA",
+      "state": "AZ",
+      "country": "United States",
+      "registrationBeginDate": "6/15/2009",
+      "registrationEndDate": "1/13/2016",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "bdSECNumber": "41840",
+      "firmId": 25574,
+      "firmName": "CHASE INVESTMENT SERVICES CORP.",
+      "city": "MESA",
+      "state": "AZ",
+      "country": "United States",
+      "registrationBeginDate": "7/6/2005",
+      "registrationEndDate": "5/27/2009",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "Y",
+      "bdSECNumber": "34881",
+      "firmId": 16999,
+      "firmName": "BANC ONE SECURITIES CORPORATION",
+      "city": "PHOENIX",
+      "state": "AZ",
+      "country": "United States",
+      "registrationBeginDate": "1/21/2005",
+      "registrationEndDate": "7/6/2005",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "disclosureFlag": "Y",
+  "iaDisclosureFlag": "Y",
+  "disclosures": [
+    {
+      "eventDate": "3/26/2008",
+      "disclosureType": "Customer Dispute",
+      "disclosureResolution": "Denied",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "Allegations": "CLIENT ALLEGES MISREPRESENTATION AND SUITABILITY IN THE PURCHASE OF A MUTUAL FUND.",
+        "Damage Amount Requested": "$12,963.23",
+        "DisplayAAOLinkIfExists": "N",
+        "arbitrationClaimFiledDetail": "",
+        "arbitrationDocketNumber": ""
+      }
+    },
+    {
+      "eventDate": "5/1/1981",
+      "disclosureType": "Criminal",
+      "disclosureResolution": "Final Disposition",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "criminalCharges": [
+          {
+            "Charges": "OBSTRUCTION OF JUSTICE (MISDEMEANOR),MINOR IN POSSESSION OF ACOHOL (MISDEMEANOR), AND POSSESSION OF MARIJUANA UNDER AN OUNCE (MISDEMEANOR). PLEAD GUILTY OF THE LADDER TWO OFFENSES.",
+            "Charge Type": "MISDEMEANOR",
+            "Disposition": "OBSTRUCTION WAS DISMISSED, (OBSTRUCTING AND DELAYING). PLEAD GUILTY TO TWO MISDEMEANORS:MINOR IN POSSESSION OF ALCOHOL, AND POSSESSION OF MARIJUANA UNDER AN OUNCE. SENTENCED TO UNSUPERVISED PROBATION AND FINES LESS THAN TWO HUNDER DOLLARS (APPROXIMATELY). THE FINE WAS PAID WITHIN 90 DAYS"
+          }
+        ],
+        "Broker Comment": [
+          "I WAS \"PARTYING\" WITH A \"FRIEND\" AT THE PARK.THE POLICE BEGAN QUESTIONING US AND MY FRIEND RAN OFF. I WOULD NOT DISCLOSE THE NAME OF MY FRIEND AND WAS THEREFORE ARRESTED FOR OBSTRUCTING JUSTICE AND THE TWO MISDEMEANORS. I WAS NOT CHARGED WITH THE OBSTRUCTION OF JUSTICE."
+        ]
+      }
+    }
+  ],
+  "iaDisclosures": [
+    {
+      "disclosureType": "Criminal",
+      "disclosureCount": 1
+    },
+    {
+      "disclosureType": "Customer Dispute",
+      "disclosureCount": 1
+    }
+  ],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 3,
+    "productExamCount": 3
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "12/30/2004",
+      "examScope": "BOTH"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "7/10/1997",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [
+    {
+      "examCategory": "Series 9",
+      "examName": "General Securities Sales Supervisor - Options Module Examination",
+      "examTakenDate": "10/17/2011",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 10",
+      "examName": "General Securities Sales Supervisor - General Module Examination",
+      "examTakenDate": "10/20/2009",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 26",
+      "examName": "Investment Company Products/Variable Contracts Principal Examination",
+      "examTakenDate": "5/24/1999",
+      "examScope": "BC"
+    }
+  ],
+  "productExamCategory": [
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "1/13/2016",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "12/9/2004",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 6",
+      "examName": "Investment Company Products/Variable Contracts Representative Examination",
+      "examTakenDate": "6/17/1997",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Arizona",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "6/12/2024"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

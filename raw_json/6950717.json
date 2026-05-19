@@ -1,0 +1,199 @@
+{
+  "basicInformation": {
+    "individualId": 6950717,
+    "firstName": "KRISTOPHER",
+    "middleName": "DOUGLAS",
+    "lastName": "BLASL",
+    "otherNames": [
+      "Kris  Blasl"
+    ],
+    "bcScope": "InActive",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "6/23/2018"
+  },
+  "currentEmployments": [],
+  "currentIAEmployments": [
+    {
+      "firmId": 316024,
+      "firmName": "FINANCIAL GRAVITY FAMILY OFFICE SERVICES, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "5/8/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "122258",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "Y",
+          "city": "Leander",
+          "state": "TX",
+          "country": "United States",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "10/01/2025"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "46844",
+      "firmId": 35747,
+      "firmName": "PURSHE KAPLAN STERLING INVESTMENTS",
+      "city": "Jacksonville",
+      "state": "FL",
+      "registrationBeginDate": "12/3/2019",
+      "registrationEndDate": "1/10/2024",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "14065",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "17883",
+      "firmId": 6627,
+      "firmName": "AXA ADVISORS, LLC",
+      "city": "AUSTIN",
+      "state": "TX",
+      "registrationBeginDate": "6/18/2018",
+      "registrationEndDate": "11/26/2019",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "123687",
+      "iaSECNumberType": "801",
+      "firmId": 319484,
+      "firmName": "49 FINANCIAL",
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "United States",
+      "registrationBeginDate": "1/3/2023",
+      "registrationEndDate": "5/8/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "117013",
+      "iaSECNumberType": "801",
+      "firmId": 304569,
+      "firmName": "THRIVENT ADVISOR NETWORK, LLC",
+      "city": "Austin",
+      "state": "TX",
+      "country": "United States",
+      "registrationBeginDate": "6/23/2020",
+      "registrationEndDate": "12/31/2022",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "62147",
+      "iaSECNumberType": "801",
+      "firmId": 125648,
+      "firmName": "PKS ADVISORY SERVICES, LLC",
+      "city": "ALBANY",
+      "state": "NY",
+      "country": "United States",
+      "registrationBeginDate": "1/16/2020",
+      "registrationEndDate": "7/2/2020",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "14065",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "17883",
+      "firmId": 6627,
+      "firmName": "AXA ADVISORS, LLC",
+      "city": "AUSTIN",
+      "state": "TX",
+      "country": "United States",
+      "registrationBeginDate": "10/3/2019",
+      "registrationEndDate": "11/26/2019",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 2
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "9/28/2019",
+      "examScope": "BOTH"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "7/16/2018",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "6/17/2018",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 3
+  },
+  "registeredStates": [
+    {
+      "state": "Colorado",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "1/6/2026"
+    },
+    {
+      "state": "Florida",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "5/14/2024"
+    },
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "5/8/2024"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

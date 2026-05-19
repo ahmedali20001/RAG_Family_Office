@@ -1,0 +1,430 @@
+{
+  "basicInformation": {
+    "individualId": 5585901,
+    "firstName": "ROBERT",
+    "lastName": "EDWARDS",
+    "otherNames": [
+      "ROB  EDWARDS",
+      "ROBERT T EDWARDS",
+      "ROBERT TOWNSEND EDWARDS JR",
+      "ROBERT TOWNSEND EDWARDS JR.",
+      "ROBERT TOWNSEND EDWARDS",
+      "ROBERT  EDWARDS JR."
+    ],
+    "bcScope": "Active",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "3/5/2010"
+  },
+  "currentEmployments": [
+    {
+      "firmId": 11025,
+      "firmName": "WELLS FARGO ADVISORS FINANCIAL NETWORK, LLC",
+      "iaOnly": "N",
+      "registrationBeginDate": "11/21/2024",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "57434",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "28721",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "718890",
+          "street1": "5811 PELICAN BAY BLVD",
+          "street2": "STE 600",
+          "city": "NAPLES",
+          "cityAlias": [
+            "COCO RIVER",
+            "NAPLES"
+          ],
+          "state": "FL",
+          "country": "United States",
+          "zipCode": "34108",
+          "latitude": "26.244492",
+          "longitude": "-81.808154",
+          "geoLocation": "26.244492,-81.808154",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "11/21/2024"
+        }
+      ]
+    }
+  ],
+  "currentIAEmployments": [
+    {
+      "firmId": 11025,
+      "firmName": "WELLS FARGO ADVISORS",
+      "iaOnly": "Y",
+      "registrationBeginDate": "11/21/2024",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "57434",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "28721",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "718890",
+          "street1": "5811 PELICAN BAY BLVD",
+          "street2": "STE 600",
+          "city": "NAPLES",
+          "cityAlias": [
+            "COCO RIVER",
+            "NAPLES"
+          ],
+          "state": "FL",
+          "country": "United States",
+          "zipCode": "34108",
+          "latitude": "26.244492",
+          "longitude": "-81.808154",
+          "geoLocation": "26.244492,-81.808154",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "11/21/2024"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "37967",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "37180",
+      "firmId": 19616,
+      "firmName": "WELLS FARGO CLEARING SERVICES, LLC",
+      "city": "NAPLES",
+      "state": "FL",
+      "registrationBeginDate": "10/11/2016",
+      "registrationEndDate": "11/21/2024",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "37967",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "37180",
+      "firmId": 19616,
+      "firmName": "WELLS FARGO ADVISORS, LLC",
+      "city": "NAPLES",
+      "state": "FL",
+      "registrationBeginDate": "10/31/2008",
+      "registrationEndDate": "5/16/2011",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "37967",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "37180",
+      "firmId": 19616,
+      "firmName": "WELLS FARGO ADVISORS",
+      "city": "NAPLES",
+      "state": "FL",
+      "country": "United States",
+      "registrationBeginDate": "10/4/2016",
+      "registrationEndDate": "11/21/2024",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "79857",
+      "iaSECNumberType": "801",
+      "firmId": 171584,
+      "firmName": "RIVERGLADES FAMILY OFFICES, LLC",
+      "city": "NAPLES",
+      "state": "FL",
+      "country": "United States",
+      "registrationBeginDate": "8/7/2014",
+      "registrationEndDate": "10/7/2016",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "112669",
+      "iaSECNumberType": "801",
+      "firmId": 156551,
+      "firmName": "ANTONETTI CAPITAL MANAGEMENT, LLC",
+      "city": "NAPLES",
+      "state": "FL",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "9/14/2012",
+      "registrationEndDate": "8/1/2014",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "37967",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "37180",
+      "firmId": 19616,
+      "firmName": "WELLS FARGO ADVISORS, LLC",
+      "city": "NAPLES",
+      "state": "FL",
+      "country": "United States",
+      "registrationBeginDate": "1/16/2009",
+      "registrationEndDate": "5/16/2011",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 2
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "10/26/2016",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "1/8/2009",
+      "examScope": "BOTH"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "10/11/2016",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 1,
+    "approvedFinraRegistrationCount": 1,
+    "approvedStateRegistrationCount": 29,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "Arizona",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "California",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Colorado",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Connecticut",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Florida",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Florida",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "11/25/2024"
+    },
+    {
+      "state": "Georgia",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Idaho",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Illinois",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Iowa",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Kentucky",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Maryland",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Massachusetts",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Michigan",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Minnesota",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Missouri",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Montana",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Nevada",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "New Hampshire",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/26/2024"
+    },
+    {
+      "state": "New Jersey",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "New York",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "North Carolina",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Pennsylvania",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Puerto Rico",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "South Carolina",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Tennessee",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Texas",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Utah",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Virginia",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    },
+    {
+      "state": "Washington",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "11/21/2024"
+    }
+  ],
+  "registeredSROs": [
+    {
+      "sro": "FINRA",
+      "status": "APPROVED",
+      "CategoriesList": [
+        "Full Registration/General Securities Representative"
+      ]
+    }
+  ],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

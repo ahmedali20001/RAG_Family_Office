@@ -1,0 +1,208 @@
+{
+  "basicInformation": {
+    "individualId": 2921038,
+    "firstName": "LAURA",
+    "middleName": "ANN",
+    "lastName": "BOURBONNAIS",
+    "otherNames": [
+      "LAURA  BOURBONNAIS",
+      "LAURA ANN DANIELS",
+      "LAURA ANN OSMON"
+    ],
+    "bcScope": "InActive",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "11/20/2016"
+  },
+  "currentEmployments": [],
+  "currentIAEmployments": [
+    {
+      "firmId": 316024,
+      "firmName": "FINANCIAL GRAVITY FAMILY OFFICE SERVICES, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "9/23/2021",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "122258",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "9121 Anson Way",
+          "street2": "Suite 200",
+          "city": "Raliegh",
+          "cityAlias": [
+            "RALEIGH"
+          ],
+          "state": "NC",
+          "country": "United States",
+          "zipCode": "27615",
+          "latitude": "35.902182",
+          "longitude": "-78.627742",
+          "geoLocation": "35.902182,-78.627742",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "09/17/2021"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "29533",
+      "firmId": 13686,
+      "firmName": "HD VEST INVESTMENT SERVICES",
+      "city": "Raleigh",
+      "state": "NC",
+      "registrationBeginDate": "11/16/2015",
+      "registrationEndDate": "11/14/2017",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "113100",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "43930",
+      "firmId": 28784,
+      "firmName": "FORTA FINANCIAL GROUP, INC.",
+      "city": "Raliegh",
+      "state": "NC",
+      "country": "United States",
+      "registrationBeginDate": "2/18/2020",
+      "registrationEndDate": "10/4/2021",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "109923",
+      "iaSECNumberType": "801",
+      "firmId": 144008,
+      "firmName": "SOFOS INVESTMENTS, INC.",
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "United States",
+      "registrationBeginDate": "8/16/2019",
+      "registrationEndDate": "12/26/2019",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "109923",
+      "iaSECNumberType": "801",
+      "firmId": 144008,
+      "firmName": "FINANCIAL GRAVITY WEALTH, INC.",
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "United States",
+      "registrationBeginDate": "11/22/2017",
+      "registrationEndDate": "8/2/2018",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "29892",
+      "iaSECNumberType": "801",
+      "firmId": 104556,
+      "firmName": "H.D. VEST ADVISORY SERVICES, INC",
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "United States",
+      "registrationBeginDate": "9/19/2016",
+      "registrationEndDate": "11/14/2017",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "firmId": 173270,
+      "firmName": "MARKETWISE FINANCIAL LLC",
+      "city": "RALEIGH",
+      "state": "NC",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "9/29/2014",
+      "registrationEndDate": "12/4/2014",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 2
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "5/7/2015",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "8/23/2014",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "11/14/2017",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 6",
+      "examName": "Investment Company Products/Variable Contracts Representative Examination",
+      "examTakenDate": "11/16/2015",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 3
+  },
+  "registeredStates": [
+    {
+      "state": "California",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "1/14/2026"
+    },
+    {
+      "state": "Illinois",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "1/20/2026"
+    },
+    {
+      "state": "North Carolina",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "9/23/2021"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

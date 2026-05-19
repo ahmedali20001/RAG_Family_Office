@@ -1,0 +1,115 @@
+{
+  "basicInformation": {
+    "individualId": 7134262,
+    "firstName": "Emily",
+    "middleName": "Elan",
+    "lastName": "Balmages",
+    "otherNames": [
+      "Emily E Balmages",
+      "Emily Elan Hahn",
+      "Emily  Hahn"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "7/11/2019"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 173447,
+      "firmName": "WARREN STREET WEALTH ADVISORS, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "2/6/2026",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "571640",
+          "street1": "200 SPECTRUM CENTER DRIVE",
+          "street2": "SUITE 300",
+          "city": "IRVINE",
+          "cityAlias": [
+            "IRVINE"
+          ],
+          "state": "CA",
+          "country": "United States",
+          "zipCode": "92618",
+          "latitude": "33.685157",
+          "longitude": "-117.734614",
+          "geoLocation": "33.685157,-117.734614",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "10/03/2019"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "117597",
+      "iaSECNumberType": "801",
+      "firmId": 173447,
+      "firmName": "WARREN STREET WEALTH ADVISORS, LLC",
+      "city": "IRVINE",
+      "state": "CA",
+      "country": "United States",
+      "registrationBeginDate": "10/17/2019",
+      "registrationEndDate": "12/31/2025",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "27225",
+      "iaSECNumberType": "801",
+      "firmId": 106079,
+      "firmName": "TARBOX FAMILY OFFICE, INC.",
+      "city": "Newport Beach",
+      "state": "CA",
+      "country": "United States",
+      "registrationBeginDate": "6/6/2019",
+      "registrationEndDate": "10/23/2019",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 0,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "California",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "2/6/2026"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

@@ -1,0 +1,92 @@
+{
+  "basicInformation": {
+    "individualId": 4880588,
+    "firstName": "CECILIA",
+    "middleName": "HELENA",
+    "lastName": "BRANDILEONE",
+    "otherNames": [
+      "CECILIA HELENA PINTO BRANDILEONE"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "10/26/2020"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 307727,
+      "firmName": "CONSCIENTIA FAMILY OFFICE, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "10/27/2020",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "734626",
+          "street1": "1395 BRICKELL AVE. SUITE 690",
+          "city": "MIAMI",
+          "cityAlias": [
+            "MIAMI"
+          ],
+          "state": "FL",
+          "country": "United States",
+          "zipCode": "33131",
+          "latitude": "25.765482",
+          "longitude": "-80.188406",
+          "geoLocation": "25.765482,-80.188406",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "02/27/2020"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 1
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "8/18/2020",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "1/19/2005",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Florida",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "10/27/2020"
+    }
+  ],
+  "registeredSROs": [],
+  "currentEmployments": []
+}

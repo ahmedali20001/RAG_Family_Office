@@ -1,0 +1,110 @@
+{
+  "basicInformation": {
+    "individualId": 1732902,
+    "firstName": "HANS",
+    "middleName": "DIETER",
+    "lastName": "BERKENHOFF",
+    "otherNames": [
+      "HANS D. BERKENHOFF",
+      "HANS  BERKENHOFF"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "10/16/1991"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 339242,
+      "firmName": "PARKSIDE FAMILY OFFICE LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "12/4/2025",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "Y",
+          "branchOfficeId": "880643",
+          "city": "EDMONDS",
+          "state": "WA",
+          "country": "United States",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "12/01/2025"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "39540",
+      "iaSECNumberType": "801",
+      "firmId": 111166,
+      "firmName": "HARBOUR INVESTMENT MANAGEMENT L.L.C.",
+      "city": "EDMONDS",
+      "state": "WA",
+      "country": "United States",
+      "registrationBeginDate": "8/28/1991",
+      "registrationEndDate": "10/14/2025",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "firmId": 116209,
+      "firmName": "BARKER & ASSOCIATES LLC",
+      "city": "EVERETT",
+      "state": "WA",
+      "country": "United States",
+      "registrationBeginDate": "3/2/1994",
+      "registrationEndDate": "5/13/2003",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "8/19/1987",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Washington",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "12/4/2025"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

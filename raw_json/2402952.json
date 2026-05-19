@@ -1,0 +1,279 @@
+{
+  "basicInformation": {
+    "individualId": 2402952,
+    "firstName": "JAMES",
+    "middleName": "BRETT",
+    "lastName": "BELLISTON",
+    "otherNames": [
+      "BRETT  BELLISTON",
+      "J. BRETT BELLISTON",
+      "JAMES BRETTLY BELLISTON"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "1/27/2002"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 340174,
+      "firmName": "TANARA WEALTH MANAGEMENT LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "4/14/2026",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "Y",
+          "city": "St. Augustine",
+          "state": "FL",
+          "country": "United States",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "04/09/2026"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "80633",
+      "iaSECNumberType": "801",
+      "firmId": 151762,
+      "firmName": "ANDINA ADVISORS",
+      "city": "St Augustine",
+      "state": "FL",
+      "country": "United States",
+      "registrationBeginDate": "1/10/2019",
+      "registrationEndDate": "4/8/2026",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "80633",
+      "iaSECNumberType": "801",
+      "firmId": 151762,
+      "firmName": "ANDINA FAMILY OFFICES",
+      "city": "LEHI",
+      "state": "UT",
+      "country": "United States",
+      "registrationBeginDate": "9/20/2013",
+      "registrationEndDate": "12/31/2018",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "63287",
+      "iaSECNumberType": "801",
+      "firmId": 131308,
+      "firmName": "CONTANGO CAPITAL ADVISORS, INC.",
+      "city": "PROVO",
+      "state": "UT",
+      "country": "United States",
+      "registrationBeginDate": "4/18/2011",
+      "registrationEndDate": "9/17/2013",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "67313",
+      "iaSECNumberType": "801",
+      "firmId": 131000,
+      "firmName": "KNOX CAPITAL ADVISORS, LLC",
+      "city": "DRAPER",
+      "state": "UT",
+      "country": "United States",
+      "registrationBeginDate": "6/3/2004",
+      "registrationEndDate": "4/15/2009",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "67313",
+      "iaSECNumberType": "801",
+      "firmId": 131000,
+      "firmName": "THE CAPITAL GROUP INVESTMENT ADVISORS, LLC",
+      "city": "DRAPER",
+      "state": "UT",
+      "country": "United States",
+      "registrationBeginDate": "6/3/2004",
+      "registrationEndDate": "6/9/2004",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "57304",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "50214",
+      "firmId": 43285,
+      "firmName": "M HOLDINGS SECURITIES, INC.",
+      "city": "DRAPER",
+      "state": "UT",
+      "country": "United States",
+      "registrationBeginDate": "3/9/2004",
+      "registrationEndDate": "6/2/2004",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "42530",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "14685",
+      "firmId": 3978,
+      "firmName": "LINCOLN FINANCIAL ADVISORS CORPORATION",
+      "city": "SALT LAKE CITY",
+      "state": "UT",
+      "country": "United States",
+      "registrationBeginDate": "1/11/2000",
+      "registrationEndDate": "3/8/2004",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "INACTIVE"
+    }
+  ],
+  "disclosureFlag": "Y",
+  "iaDisclosureFlag": "Y",
+  "disclosures": [
+    {
+      "eventDate": "10/16/2013",
+      "disclosureType": "Customer Dispute",
+      "disclosureResolution": "Denied",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "Allegations": "CUSTOMER ALLEGES UNSUITABLE RECOMMENDATION.",
+        "Damage Amount Requested": "$67,583.00",
+        "DisplayAAOLinkIfExists": "N",
+        "arbitrationClaimFiledDetail": "",
+        "arbitrationDocketNumber": ""
+      }
+    },
+    {
+      "eventDate": "7/7/2005",
+      "disclosureType": "Employment Separation After Allegations",
+      "disclosureResolution": "",
+      "isIapdExcludedCCFlag": "N",
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "Firm Name": "M HOLDINGS SECURITIES, INC.",
+        "Termination Type": "Voluntary Resignation",
+        "Allegations": "REGISTERED REP FAILED TO FOLLOW FIRM PROCEDURES FOR PROCESSING CLIENT DOCUMENTS.",
+        "Broker Comment": [
+          "REGISTERED REPRESENTATIVE ASSERTS THAT NO INDUSTRY STANDARDS WERE VIOLATED, THAT HE FOLLOWED THE INSTRUCTIONS OF THE CLIENT AND THE DIRECT PARTICIPATION FUND SPONSOR IN PROCESSING CLIENT APPLICATION. PRIOR TO THIS ALLEGATION, REGISTERED REP HAS ALREADY NOTIFIED M HOLDINGS SECURITIES THE WEEK OF JUNE 13TH, 2005 OF HIS INTENT TO CHANGE BROKER/DEALERS."
+        ]
+      }
+    }
+  ],
+  "iaDisclosures": [
+    {
+      "disclosureType": "Customer Dispute",
+      "disclosureCount": 1
+    },
+    {
+      "disclosureType": "Termination",
+      "disclosureCount": 1
+    }
+  ],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 2,
+    "productExamCount": 5
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "6/12/1995",
+      "examScope": "IA"
+    },
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "10/4/1993",
+      "examScope": "BC"
+    }
+  ],
+  "principalExamCategory": [
+    {
+      "examCategory": "Series 53",
+      "examName": "Municipal Securities Principal Examination",
+      "examTakenDate": "12/6/2007",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 24",
+      "examName": "General Securities Principal Examination",
+      "examTakenDate": "9/19/2005",
+      "examScope": "BC"
+    }
+  ],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 31",
+      "examName": "Futures Managed Funds Examination",
+      "examTakenDate": "10/31/2005",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "12/12/2001",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 62",
+      "examName": "Corporate Securities Limited Representative Examination",
+      "examTakenDate": "11/12/1997",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 22",
+      "examName": "Direct Participation Programs Representative Examination",
+      "examTakenDate": "11/29/1995",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 6",
+      "examName": "Investment Company Products/Variable Contracts Representative Examination",
+      "examTakenDate": "9/27/1993",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "Florida",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "5/7/2026"
+    },
+    {
+      "state": "Utah",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "4/14/2026"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

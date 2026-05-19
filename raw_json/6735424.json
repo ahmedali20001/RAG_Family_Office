@@ -1,0 +1,136 @@
+{
+  "basicInformation": {
+    "individualId": 6735424,
+    "firstName": "Cameron",
+    "lastName": "Bond",
+    "otherNames": [],
+    "bcScope": "InActive",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "10/30/2017"
+  },
+  "currentEmployments": [],
+  "currentIAEmployments": [
+    {
+      "firmId": 331394,
+      "firmName": "STORYONE FAMILY OFFICE",
+      "iaOnly": "Y",
+      "registrationBeginDate": "6/19/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "130451",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "836057",
+          "street1": "7501 COLLEGE BLVD",
+          "street2": "SUITE 120",
+          "city": "OVERLAND PARK",
+          "cityAlias": [
+            "LENEXA",
+            "OVERLAND",
+            "OVERLAND PARK",
+            "SHAWNEE MISSION",
+            "SHAWNEE MSN",
+            "SM"
+          ],
+          "state": "KS",
+          "country": "United States",
+          "zipCode": "66210",
+          "latitude": "38.924532",
+          "longitude": "-94.70487",
+          "geoLocation": "38.924532,-94.70487",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "06/14/2024"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "22990",
+      "firmId": 6769,
+      "firmName": "KEEL POINT CAPITAL, LLC",
+      "city": "LEAWOOD",
+      "state": "KS",
+      "registrationBeginDate": "10/31/2017",
+      "registrationEndDate": "7/15/2024",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "62249",
+      "iaSECNumberType": "801",
+      "firmId": 127902,
+      "firmName": "KEEL POINT, LLC",
+      "city": "Leawood",
+      "state": "KS",
+      "country": "United States",
+      "registrationBeginDate": "10/11/2019",
+      "registrationEndDate": "7/15/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 2
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "6/5/2018",
+      "examScope": "BOTH"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "10/31/2017",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Kansas",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "6/19/2024"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "basicInformation": {
+    "individualId": 4966255,
+    "firstName": "JOHN",
+    "middleName": "THOMAS",
+    "lastName": "DRAWDY",
+    "nameSuffix": "JR.",
+    "otherNames": [
+      "JOHN THOMAS DRAWDY JR",
+      "JOHN THOMAS DRAWDY"
+    ],
+    "bcScope": "InActive",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "7/7/2010"
+  },
+  "currentEmployments": [],
+  "currentIAEmployments": [
+    {
+      "firmId": 316024,
+      "firmName": "FINANCIAL GRAVITY FAMILY OFFICE SERVICES, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "2/15/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "122258",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "111 Towne Lake Parkway Suite 110",
+          "city": "Woodstock",
+          "cityAlias": [
+            "HOLLY SPRINGS",
+            "MOUNTAIN PARK",
+            "WOODSTOCK"
+          ],
+          "state": "GA",
+          "country": "United States",
+          "zipCode": "30188",
+          "latitude": "34.120573",
+          "longitude": "-84.447901",
+          "geoLocation": "34.120573,-84.447901",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "01/04/2024"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "29533",
+      "firmId": 13686,
+      "firmName": "AVANTAX INVESTMENT SERVICES, INC.",
+      "city": "Woodstock",
+      "state": "GA",
+      "registrationBeginDate": "9/17/2015",
+      "registrationEndDate": "12/31/2023",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "65881",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "48080",
+      "firmId": 38095,
+      "firmName": "WOODSTOCK FINANCIAL GROUP, INC.",
+      "city": "WOODSTOCK",
+      "state": "GA",
+      "registrationBeginDate": "4/14/2010",
+      "registrationEndDate": "9/5/2013",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "50959",
+      "firmId": 45085,
+      "firmName": "WASSERMAN & ASSOCIATES, INC.",
+      "city": "MYRTLE BEACH",
+      "state": "SC",
+      "country": "UNITED STATES OF AMERICA",
+      "registrationBeginDate": "5/19/2009",
+      "registrationEndDate": "12/31/2009",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "44870",
+      "firmId": 30349,
+      "firmName": "1ST GLOBAL CAPITAL CORP.",
+      "city": "KENNESAW",
+      "state": "GA",
+      "registrationBeginDate": "11/9/2007",
+      "registrationEndDate": "4/25/2008",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "58108",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "51324",
+      "firmId": 46173,
+      "firmName": "PARK AVENUE SECURITIES LLC",
+      "city": "NEW YORK",
+      "state": "NY",
+      "country": "UNITED STATES",
+      "registrationBeginDate": "6/23/2005",
+      "registrationEndDate": "4/13/2006",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "29892",
+      "iaSECNumberType": "801",
+      "firmId": 104556,
+      "firmName": "AVANTAX ADVISORY SERVICES",
+      "city": "WOODSTOCK",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "9/9/2015",
+      "registrationEndDate": "12/31/2023",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "65881",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "48080",
+      "firmId": 38095,
+      "firmName": "WOODSTOCK FINANCIAL GROUP, INC.",
+      "city": "WOODSTOCK",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "4/15/2010",
+      "registrationEndDate": "9/5/2013",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "41517",
+      "iaSECNumberType": "801",
+      "firmId": 111133,
+      "firmName": "1ST GLOBAL ADVISORS INC",
+      "city": "KENNESAW",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "11/7/2007",
+      "registrationEndDate": "4/25/2008",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "60274",
+      "iaSECNumberType": "801",
+      "firmId": 112787,
+      "firmName": "PEACHTREE PLANNING CORPORATION",
+      "city": "ATLANTA",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "8/23/2005",
+      "registrationEndDate": "12/9/2005",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "disclosureFlag": "Y",
+  "iaDisclosureFlag": "Y",
+  "disclosures": [
+    {
+      "eventDate": "7/9/2012",
+      "disclosureType": "Regulatory",
+      "disclosureResolution": "Final",
+      "isIapdExcludedCCFlag": "N",
+      "isBcExcludedCCFlag": "N",
+      "bcCtgryType": 11,
+      "iaCtgryType": 10,
+      "disclosureDetail": {
+        "DocketNumberFDA": "",
+        "DocketNumberAAO": "",
+        "Initiated By": "GEORGIA DEPARTMENT OF INSURANCE",
+        "Allegations": "FAILURE TO PAY RENEWAL FEE ON TIME.",
+        "Resolution": "Order",
+        "SanctionDetails": [
+          {
+            "Sanctions": "Civil and Administrative Penalty(ies)/Fine(s)",
+            "SanctionDetails": [
+              {
+                "Amount": "$150.00"
+              }
+            ]
+          }
+        ],
+        "Broker Comment": [
+          "I FORGOT TO PAY MY INSURANCE RENEWAL FEE ON TIME."
+        ]
+      }
+    }
+  ],
+  "iaDisclosures": [
+    {
+      "disclosureType": "Regulatory Event",
+      "disclosureCount": 1
+    }
+  ],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 2
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "6/15/2005",
+      "examScope": "BOTH"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "6/22/2005",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Georgia",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "2/15/2024"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

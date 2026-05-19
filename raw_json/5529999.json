@@ -1,0 +1,110 @@
+{
+  "basicInformation": {
+    "individualId": 5529999,
+    "firstName": "DAVID",
+    "middleName": "ALLEN",
+    "lastName": "BLOOM",
+    "otherNames": [],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "3/26/2009"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 159440,
+      "firmName": "TFO FAMILY OFFICE PARTNERS",
+      "iaOnly": "Y",
+      "registrationBeginDate": "1/12/2012",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "485568",
+          "street1": "5060 NORTH 40TH STREET",
+          "street2": "SUITE 200",
+          "city": "PHOENIX",
+          "cityAlias": [
+            "PHOENIX"
+          ],
+          "state": "AZ",
+          "country": "United States",
+          "zipCode": "85018",
+          "latitude": "33.502424",
+          "longitude": "-111.97815",
+          "geoLocation": "33.502424,-111.97815",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "12/13/2011"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "56752",
+      "iaSECNumberType": "801",
+      "firmId": 109278,
+      "firmName": "GENSPRING FAMILY OFFICES, LLC",
+      "city": "PHOENIX",
+      "state": "AZ",
+      "country": "United States",
+      "registrationBeginDate": "2/25/2009",
+      "registrationEndDate": "12/12/2011",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "2/17/2009",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "Arizona",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "1/12/2012"
+    },
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED_RES",
+      "regDate": "6/10/2020"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

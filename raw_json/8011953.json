@@ -1,0 +1,97 @@
+{
+  "basicInformation": {
+    "individualId": 8011953,
+    "firstName": "Joel",
+    "middleName": "Micah",
+    "lastName": "Braswell",
+    "otherNames": [
+      "Joel Micah Brasswell"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "12/29/2024"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 324597,
+      "firmName": "HOLDEN FAMILY OFFICE, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "2/23/2026",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "Y",
+          "branchOfficeId": "804498",
+          "city": "NORTH PALM BEACH",
+          "state": "FL",
+          "country": "United States",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "02/16/2026"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "43144",
+      "iaSECNumberType": "801",
+      "firmId": 107271,
+      "firmName": "SAVANT WEALTH MANAGEMENT",
+      "city": "Hanover",
+      "state": "PA",
+      "country": "United States",
+      "registrationBeginDate": "12/17/2024",
+      "registrationEndDate": "2/9/2026",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "12/16/2024",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Florida",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "2/23/2026"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

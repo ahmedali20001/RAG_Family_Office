@@ -1,0 +1,298 @@
+{
+  "basicInformation": {
+    "individualId": 4879505,
+    "firstName": "JAMES",
+    "middleName": "WALTER",
+    "lastName": "ALLEN",
+    "otherNames": [
+      "JAY  ALLEN"
+    ],
+    "bcScope": "Active",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "8/18/2006"
+  },
+  "currentEmployments": [
+    {
+      "firmId": 10674,
+      "firmName": "NEWEDGE SECURITIES, LLC",
+      "iaOnly": "N",
+      "registrationBeginDate": "3/17/2026",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE",
+      "bdSECNumber": "27663",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "890477",
+          "street1": "2005 Stonegate Trail, Suite 101",
+          "city": "Birmingham",
+          "cityAlias": [
+            "BIRMINGHAM",
+            "HOOVER",
+            "MEADOWBROOK",
+            "SHOAL CREEK",
+            "VESTAVIA",
+            "VESTAVIA HILLS",
+            "VESTAVIA HLS"
+          ],
+          "state": "AL",
+          "country": "United States",
+          "zipCode": "35242",
+          "latitude": "33.399602",
+          "longitude": "-86.682992",
+          "geoLocation": "33.399602,-86.682992",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "03/17/2026"
+        }
+      ]
+    }
+  ],
+  "currentIAEmployments": [
+    {
+      "firmId": 171351,
+      "firmName": "NEWEDGE ADVISORS",
+      "iaOnly": "Y",
+      "registrationBeginDate": "12/5/2025",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "79876",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "2005 Stonegate Trail, Suite 101",
+          "city": "Birmingham",
+          "cityAlias": [
+            "BIRMINGHAM",
+            "HOOVER",
+            "MEADOWBROOK",
+            "SHOAL CREEK",
+            "VESTAVIA",
+            "VESTAVIA HILLS",
+            "VESTAVIA HLS"
+          ],
+          "state": "AL",
+          "country": "United States",
+          "zipCode": "35242",
+          "latitude": "33.399602",
+          "longitude": "-86.682992",
+          "geoLocation": "33.399602,-86.682992",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "12/05/2025"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "27663",
+      "firmId": 10674,
+      "firmName": "NEWEDGE SECURITIES, LLC",
+      "city": "Birmingham",
+      "state": "AL",
+      "registrationBeginDate": "12/5/2025",
+      "registrationEndDate": "3/10/2026",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    },
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "7163",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "16267",
+      "firmId": 8174,
+      "firmName": "UBS FINANCIAL SERVICES INC.",
+      "city": "ATLANTA",
+      "state": "GA",
+      "registrationBeginDate": "11/16/2012",
+      "registrationEndDate": "7/20/2021",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "N",
+      "bdSECNumber": "15001",
+      "firmId": 4161,
+      "firmName": "MORGAN KEEGAN & COMPANY, INC.",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "registrationBeginDate": "2/1/2006",
+      "registrationEndDate": "11/28/2006",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "121509",
+      "iaSECNumberType": "801",
+      "firmId": 314889,
+      "firmName": "STONEGATE INVESTMENT GROUP, LLC",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "country": "United States",
+      "registrationBeginDate": "7/9/2021",
+      "registrationEndDate": "12/4/2025",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "7163",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "16267",
+      "firmId": 8174,
+      "firmName": "UBS FINANCIAL SERVICES INC.",
+      "city": "ATLANTA",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "11/20/2012",
+      "registrationEndDate": "7/20/2021",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "56752",
+      "iaSECNumberType": "801",
+      "firmId": 109278,
+      "firmName": "GENSPRING FAMILY OFFICES, LLC",
+      "city": "ATLANTA",
+      "state": "GA",
+      "country": "United States",
+      "registrationBeginDate": "5/11/2007",
+      "registrationEndDate": "10/10/2012",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "bdSECNumber": "15001",
+      "firmId": 4161,
+      "firmName": "MORGAN KEEGAN & COMPANY, INC.",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "country": "United States",
+      "registrationBeginDate": "4/5/2006",
+      "registrationEndDate": "11/28/2006",
+      "firmBCScope": "INACTIVE",
+      "firmIAScope": "NOTINSCOPE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 0,
+    "productExamCount": 3
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "1/10/2013",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 66",
+      "examName": "Uniform Combined State Law Examination",
+      "examTakenDate": "4/4/2006",
+      "examScope": "BOTH"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 7TO",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "4/11/2024",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "11/15/2012",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 2,
+    "approvedFinraRegistrationCount": 1,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 6
+  },
+  "registeredStates": [
+    {
+      "state": "Alabama",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "12/5/2025"
+    },
+    {
+      "state": "Georgia",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "12/8/2025"
+    },
+    {
+      "state": "Louisiana",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "12/8/2025"
+    },
+    {
+      "state": "Nebraska",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "12/5/2025"
+    },
+    {
+      "state": "New Hampshire",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "12/9/2025"
+    },
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED_RES",
+      "regDate": "12/8/2025"
+    }
+  ],
+  "registeredSROs": [
+    {
+      "sro": "FINRA",
+      "status": "APPROVED",
+      "CategoriesList": [
+        "Full Registration/General Securities Representative"
+      ]
+    },
+    {
+      "sro": "Nasdaq Stock Market",
+      "status": "APPROVED"
+    }
+  ],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

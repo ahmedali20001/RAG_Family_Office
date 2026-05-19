@@ -1,0 +1,118 @@
+{
+  "basicInformation": {
+    "individualId": 1002035,
+    "firstName": "ALAN",
+    "middleName": "KAUFFMANN",
+    "lastName": "BONDE",
+    "otherNames": [],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "3/29/2015"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 140195,
+      "firmName": "MARINER",
+      "iaOnly": "Y",
+      "registrationBeginDate": "3/1/2022",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "2121 AVENUE OF THE STARS",
+          "street2": "#2400",
+          "city": "LOS ANGELES",
+          "cityAlias": [
+            "CENTURY CITY",
+            "LOS ANGELES"
+          ],
+          "state": "CA",
+          "country": "United States",
+          "zipCode": "90067",
+          "latitude": "34.05775",
+          "longitude": "-118.4138",
+          "geoLocation": "34.05775,-118.4138",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "03/01/2022"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "79005",
+      "iaSECNumberType": "801",
+      "firmId": 169828,
+      "firmName": "ADVICEPERIOD, LLC",
+      "city": "LOS ANGELES",
+      "state": "CA",
+      "country": "United States",
+      "registrationBeginDate": "8/29/2017",
+      "registrationEndDate": "3/30/2022",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "56752",
+      "iaSECNumberType": "801",
+      "firmId": 109278,
+      "firmName": "GENSPRING FAMILY OFFICES, LLC",
+      "city": "LOS ANGELES",
+      "state": "CA",
+      "country": "United States",
+      "registrationBeginDate": "11/20/2014",
+      "registrationEndDate": "4/20/2017",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "11/20/2014",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "California",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "3/1/2022"
+    }
+  ],
+  "registeredSROs": [],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  },
+  "currentEmployments": []
+}

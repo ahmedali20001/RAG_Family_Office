@@ -1,0 +1,122 @@
+{
+  "basicInformation": {
+    "individualId": 3134938,
+    "firstName": "STEPHEN",
+    "middleName": "HERMAN",
+    "lastName": "BERARDI",
+    "otherNames": [
+      "STEPHEN  BERARDI",
+      "STEVE  BERARDI"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "11/15/2006"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 288566,
+      "firmName": "CRESSET ASSET MANAGEMENT, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "6/16/2020",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "11951 FREEDOM DRIVE",
+          "street2": "SUITE 1260",
+          "city": "RESTON",
+          "cityAlias": [
+            "HERNDON",
+            "RESTON"
+          ],
+          "state": "VA",
+          "country": "United States",
+          "zipCode": "20190",
+          "latitude": "38.960974",
+          "longitude": "-77.342467",
+          "geoLocation": "38.960974,-77.342467",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "06/16/2020"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "107028",
+      "iaSECNumberType": "801",
+      "firmId": 282298,
+      "firmName": "PAGNATOKARP PARTNERS, LLC",
+      "city": "Reston",
+      "state": "VA",
+      "country": "United States",
+      "registrationBeginDate": "7/10/2017",
+      "registrationEndDate": "6/16/2020",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    },
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "56752",
+      "iaSECNumberType": "801",
+      "firmId": 109278,
+      "firmName": "GENSPRING FAMILY OFFICES, LLC",
+      "city": "CHEVY CHASE",
+      "state": "MD",
+      "country": "United States",
+      "registrationBeginDate": "9/15/2003",
+      "registrationEndDate": "5/8/2014",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "9/29/1998",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "6/16/2020"
+    },
+    {
+      "state": "Virginia",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "6/16/2020"
+    }
+  ],
+  "registeredSROs": [],
+  "currentEmployments": []
+}

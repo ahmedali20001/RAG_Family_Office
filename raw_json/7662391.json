@@ -1,0 +1,100 @@
+{
+  "basicInformation": {
+    "individualId": 7662391,
+    "firstName": "Katelynn",
+    "middleName": "Starr",
+    "lastName": "Bresler",
+    "otherNames": [
+      "Katelynn S Bresler"
+    ],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "1/12/2023"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 319448,
+      "firmName": "CORIENT",
+      "iaOnly": "Y",
+      "registrationBeginDate": "7/17/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "200 Clayton Street",
+          "street2": "Suite 300",
+          "city": "Denver",
+          "cityAlias": [
+            "DENVER"
+          ],
+          "state": "CO",
+          "country": "United States",
+          "zipCode": "80206",
+          "latitude": "39.730725",
+          "longitude": "-104.95321",
+          "geoLocation": "39.730725,-104.95321",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "02/05/2025"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [
+    {
+      "iaOnly": "Y",
+      "iaSECNumber": "71580",
+      "iaSECNumberType": "801",
+      "firmId": 137800,
+      "firmName": "SOCIUS FAMILY OFFICE, LLC",
+      "city": "FORT LAUDERDALE",
+      "state": "FL",
+      "country": "United States",
+      "registrationBeginDate": "1/13/2023",
+      "registrationEndDate": "8/8/2024",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "INACTIVE"
+    }
+  ],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "12/9/2022",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Colorado",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "10/1/2024"
+    }
+  ],
+  "registeredSROs": [],
+  "currentEmployments": []
+}

@@ -1,0 +1,284 @@
+{
+  "basicInformation": {
+    "individualId": 5131917,
+    "firstName": "RICHARD",
+    "middleName": "PAUL",
+    "lastName": "BENOIT",
+    "otherNames": [],
+    "bcScope": "Active",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "12/14/2009"
+  },
+  "currentEmployments": [
+    {
+      "firmId": 15650,
+      "firmName": "BOLTON GLOBAL CAPITAL",
+      "iaOnly": "N",
+      "registrationBeginDate": "12/5/2011",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE",
+      "bdSECNumber": "33222",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 1,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "branchOfficeId": "200287",
+          "street1": "358 U. S. ROUTE ONE",
+          "city": "FALMOUTH",
+          "cityAlias": [
+            "FALMOUTH",
+            "FALMOUTH FORESIDE",
+            "PORTLAND"
+          ],
+          "state": "ME",
+          "country": "United States",
+          "zipCode": "04105",
+          "latitude": "43.748283",
+          "longitude": "-70.273362",
+          "geoLocation": "43.748283,-70.273362",
+          "nonRegisteredOfficeFlag": "N",
+          "elaBeginDate": "08/23/2011"
+        }
+      ]
+    }
+  ],
+  "currentIAEmployments": [
+    {
+      "firmId": 340475,
+      "firmName": "DOW FAMILY OFFICE ADVISORY, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "4/28/2026",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "135723",
+      "iaSECNumberType": "801",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "358 U.S. ROUTE ONE",
+          "city": "FALMOUTH",
+          "cityAlias": [
+            "FALMOUTH",
+            "FALMOUTH FORESIDE",
+            "PORTLAND"
+          ],
+          "state": "ME",
+          "country": "United States",
+          "zipCode": "04105",
+          "latitude": "43.748283",
+          "longitude": "-70.273362",
+          "geoLocation": "43.748283,-70.273362",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "04/27/2026"
+        }
+      ]
+    },
+    {
+      "firmId": 15650,
+      "firmName": "BOLTON GLOBAL CAPITAL",
+      "iaOnly": "N",
+      "registrationBeginDate": "12/5/2011",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "NOTINSCOPE",
+      "bdSECNumber": "33222",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "1441 BRICKELL AVENUE",
+          "street2": "Suite 1700",
+          "city": "MIAMI",
+          "cityAlias": [
+            "MIAMI"
+          ],
+          "state": "FL",
+          "country": "United States",
+          "zipCode": "33131",
+          "latitude": "25.765482",
+          "longitude": "-80.188406",
+          "geoLocation": "25.765482,-80.188406",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "10/01/2022"
+        }
+      ]
+    },
+    {
+      "firmId": 129376,
+      "firmName": "BOLTON GLOBAL ASSET MANAGEMENT",
+      "iaOnly": "Y",
+      "registrationBeginDate": "11/2/2011",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE",
+      "iaSECNumber": "66962",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "68187",
+      "branchOfficeLocations": [
+        {
+          "displayOrder": 2,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "358 U.S. ROUTE ONE",
+          "city": "FALMOUTH",
+          "cityAlias": [
+            "FALMOUTH",
+            "FALMOUTH FORESIDE",
+            "PORTLAND"
+          ],
+          "state": "ME",
+          "country": "United States",
+          "zipCode": "04105",
+          "latitude": "43.748283",
+          "longitude": "-70.273362",
+          "geoLocation": "43.748283,-70.273362",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "10/17/2011"
+        },
+        {
+          "displayOrder": 3,
+          "locatedAtFlag": "Y",
+          "supervisedFromFlag": "N",
+          "privateResidenceFlag": "N",
+          "street1": "1441 BRICKELL AVENUE",
+          "street2": "SUITE 1700",
+          "city": "MIAMI",
+          "cityAlias": [
+            "MIAMI"
+          ],
+          "state": "FL",
+          "country": "United States",
+          "zipCode": "33131",
+          "latitude": "25.765482",
+          "longitude": "-80.188406",
+          "geoLocation": "25.765482,-80.188406",
+          "nonRegisteredOfficeFlag": "Y",
+          "elaBeginDate": "09/02/2022"
+        }
+      ]
+    }
+  ],
+  "previousEmployments": [
+    {
+      "iaOnly": "N",
+      "iaSECNumber": "56578",
+      "iaSECNumberType": "801",
+      "bdSECNumber": "50429",
+      "firmId": 43793,
+      "firmName": "USI SECURITIES, INC.",
+      "city": "MANCHESTER",
+      "state": "NH",
+      "registrationBeginDate": "4/27/2006",
+      "registrationEndDate": "3/13/2008",
+      "firmBCScope": "ACTIVE",
+      "firmIAScope": "ACTIVE"
+    }
+  ],
+  "previousIAEmployments": [],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 2,
+    "principalExamCount": 1,
+    "productExamCount": 4
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 63",
+      "examName": "Uniform Securities Agent State Law Examination",
+      "examTakenDate": "11/5/2011",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "10/8/2011",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [
+    {
+      "examCategory": "Series 26",
+      "examName": "Investment Company Products/Variable Contracts Principal Examination",
+      "examTakenDate": "4/29/2006",
+      "examScope": "BC"
+    }
+  ],
+  "productExamCategory": [
+    {
+      "examCategory": "Series 6TO",
+      "examName": "Investment Company Products/Variable Contracts Representative Examination",
+      "examTakenDate": "1/2/2023",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "SIE",
+      "examName": "Securities Industry Essentials Examination",
+      "examTakenDate": "10/1/2018",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 7",
+      "examName": "General Securities Representative Examination",
+      "examTakenDate": "12/3/2011",
+      "examScope": "BC"
+    },
+    {
+      "examCategory": "Series 6",
+      "examName": "Investment Company Products/Variable Contracts Representative Examination",
+      "examTakenDate": "4/26/2006",
+      "examScope": "BC"
+    }
+  ],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 1,
+    "approvedFinraRegistrationCount": 1,
+    "approvedStateRegistrationCount": 1,
+    "approvedIAStateRegistrationCount": 2
+  },
+  "registeredStates": [
+    {
+      "state": "Maine",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "11/2/2011"
+    },
+    {
+      "state": "Maine",
+      "regScope": "BC",
+      "status": "APPROVED",
+      "regDate": "12/5/2011"
+    },
+    {
+      "state": "Texas",
+      "regScope": "IA",
+      "status": "APPROVED_RES",
+      "regDate": "5/1/2026"
+    }
+  ],
+  "registeredSROs": [
+    {
+      "sro": "FINRA",
+      "status": "APPROVED",
+      "CategoriesList": [
+        "Full Registration/General Securities Representative",
+        "Investment Company and Variable Contracts Products Rep."
+      ]
+    }
+  ],
+  "brokerDetails": {
+    "hasBCComments": "N",
+    "hasIAComments": "N",
+    "legacyReportStatusDescription": "Not Requested"
+  }
+}

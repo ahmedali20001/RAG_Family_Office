@@ -1,0 +1,62 @@
+{
+  "basicInformation": {
+    "individualId": 6093141,
+    "firstName": "TRAVIS",
+    "middleName": "LOLAND",
+    "lastName": "BORTON",
+    "otherNames": [],
+    "bcScope": "NotInScope",
+    "iaScope": "Active",
+    "daysInIndustryCalculatedDateIAPD": "7/17/2012"
+  },
+  "currentIAEmployments": [
+    {
+      "firmId": 110264,
+      "firmName": "BMO FAMILY OFFICE, LLC",
+      "iaOnly": "Y",
+      "registrationBeginDate": "7/17/2012",
+      "firmBCScope": "NOTINSCOPE",
+      "firmIAScope": "ACTIVE",
+      "branchOfficeLocations": []
+    }
+  ],
+  "previousEmployments": [],
+  "previousIAEmployments": [],
+  "disclosureFlag": "N",
+  "iaDisclosureFlag": "N",
+  "disclosures": [],
+  "iaDisclosures": [],
+  "examsCount": {
+    "stateExamCount": 1,
+    "principalExamCount": 0,
+    "productExamCount": 0
+  },
+  "stateExamCategory": [
+    {
+      "examCategory": "Series 65",
+      "examName": "Uniform Investment Adviser Law Examination",
+      "examTakenDate": "11/22/2004",
+      "examScope": "IA"
+    }
+  ],
+  "principalExamCategory": [],
+  "productExamCategory": [],
+  "registrationCount": {
+    "hasInactiveRegistration": "N",
+    "hasSuspendedRegistration": "N",
+    "approvedSRORegistrationCount": 0,
+    "approvedFinraRegistrationCount": 0,
+    "approvedStateRegistrationCount": 0,
+    "approvedIAStateRegistrationCount": 1
+  },
+  "registeredStates": [
+    {
+      "state": "Illinois",
+      "regScope": "IA",
+      "status": "APPROVED",
+      "regDate": "7/17/2012"
+    }
+  ],
+  "registeredSROs": [],
+  "currentEmployments": []
+}
