@@ -3,7 +3,7 @@
 This document outlines the pipeline used to build the verified dataset of Family Office investment advisers from the SEC IAPD portal.
 
 ## 1. How We Found Them
-We utilized a seed list of 50 CRD (Central Registration Depository) numbers provided in `crd.csv`. 
+We utilized a seed list of 50 CRD (Central Registration Depository) numbers provided in `crd.csv`. This was checked and manually downloaded the list and trim it to 50. 
 Using Python's `requests` library, we performed targeted HTTP GET requests to the hidden SEC IAPD REST API endpoints (e.g., `https://api.adviserinfo.sec.gov/IAPD/Content/Search/iapd_Search.aspx`). By passing the CRD numbers directly into the API payload, we bypassed the manual web interface and successfully downloaded the complete, raw JSON profiles for all 50 individuals.
 
 ## 2. How We Enriched Them
